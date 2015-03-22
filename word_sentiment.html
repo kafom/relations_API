@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<!--[if IE 8]>         
+<html class="no-js lt-ie9" lang="en">
+   <![endif]-->
+   <!--[if gt IE 8]><!--> 
+   <html class="no-js" lang="en">
+      <!--<![endif]-->
+   <head>   
+      <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+      <meta name="viewport" content="width=device-width" />
+      
+   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+   <meta http-equiv="Pragma" content="no-cache">      
+   <meta http-equiv="Expires" content="Sat, 01 Dec 2001 00:00:00 GMT">
+   
+            <title>Keyword sentiment dashboard</title>
+            <link rel="stylesheet" type="text/css" href="css/dc.css"/>
+            <link rel="stylesheet" href="css/normalize.css" />
+            <link rel="stylesheet" href="css/foundation.css" />
+            <link rel="stylesheet" href="css/social_foundicons.css">
+            <style type="text/css">
+               body {  
+               font-family: "Helvetica Neue", Helvetica, sans-serif;
+               }
+               #body {
+               position: relative;
+               }
+               h1 {
+               font-size: 64px;
+               font-weight: 300;
+               letter-spacing: -2px;
+               margin: .3em 0 .1em 0;
+               }
+               h2 {
+               margin-top: 2em;
+               }
+               h1, h2,h6 {
+               text-rendering: optimizeLegibility;
+               }
+               h6{
+               text-transform: uppercase
+               }
+               #sottotitolo {
+               font-size: 14px;
+               }
+               select {
+               background-color: #ffffff;
+               border: 1px solid #cccccc;
+               }
+               #formtime {
+               position: relative;
+               top: 10px;
+               }
+               #comment {
+               position: relative;
+               top: 12px;
+               }
+            </style>
+            </head>  
+         <script type="text/javascript" src="js/d3/d3crossfilter.js"></script>
+         <script type="text/javascript" src="js/d3/crossfilter.js"></script>
+         <script src="js/accounting.js"></script>
+         <script type="text/javascript" src="js/d3/dc20.js"></script>
+         <script src="js/vendor/modernizr.js"></script>
+         <script src='js/jquery-1.10.2.js' type='text/javascript'></script>
+         <script src='js/jquery-ui-1.10.4.custom.js' type='text/javascript'></script>
+         <body>
+            <div id="body">
+               <div class="container">
+                <div class="row">
+               <div class="large-12 columns small-12 columns">  
+               <div class="large-7 medium-7 small-12 columns">
+                        <h1 class="subheader" data-tooltip data-options="disable_for_touch:true" class="has-tip" title="This dashboard analyses the sentiment of the most meaningful words used in Cruisecritic.com reviews of Msc Cruises. Relevance and sentiment are estimated using the AlchemyAPI text analysis service. The URL changes based on the applied filters. Click on any chart to filter the report. ">Keyword sentiment</h1>
+               </div>
+             <div class="large-5 medium-5 small-12 columns">
+                        <ul class="large-block-grid-2 small-block-grid-2">
+                           <li>               
+                            <form>
+                              <div id="formtime">                             
+                                    <span data-tooltip data-options="disable_for_touch:true" class="has-tip" title="The natural processing engine assigns a rating to each keyword. The higher the rating, the more confident the algorithm is that the keyword is relevant and that the detected sentiment is correct. This control lets you filter out the keywords below a certain level of confidence.
+                                    ">
+                                    <select class="subheader" id="listTime"  onchange="init()">
+                                    </select>
+                                    </span>
+                              </div> 
+                               </form>
+                           </li>
+                           <li>
+                              <p><a class="button round small right" id='comment'data-dropdown="contentDrop1" data-tooltip data-options="align: left" class="has-tip" title="Click to learn more">?</a></p>
+                              <div id="contentDrop1" class="f-dropdown content very large" data-dropdown-content>
+                                 <p>The cruise business has traditionally been led by US and UK companies. 
+                                 </p>
+                                 <p>Msc, a new player with a unique offering ('Mediterranean cruises'), has been growing at twice the rate of the market. 
+                                 However, the success of Msc in the USA and UK has been somewhat weakened by a relatively high number of very negative reviews that - given the number of happy UK and USA Msc customers - seem to be partly tied to a 'cultural misunderstanding' of Msc's offering.</p>
+                                 <p>The objective of this dashboard is to try understand the reasons that drive these negative reviews and suggest possible corrective actions.</p>
+                                 <p>Happy reviewers <a href="http://www.logeeka.com/cruises/word_sentiment.html#&good&&&&"  target="_blank">mention 'negative reviews' </a>as the most relevant negative keyword, suggesting almost a surprise versus the negative reviews they might have read. Unhappy reviewers <a href="http://www.logeeka.com/cruises/word_sentiment.html#&bad&&&&"  target="_blank">mention food and people </a>as negative keywords suggesting a broad dissatisfaction towards the whole experience.</p>
+                              </div>
+                           </li>
+                        </ul>
+                     </div>
+                  </div>
+                 </div>
+                  <div class="row">
+                     <div class="large-7 medium-6 small-12 columns">
+                     </div>
+                     <div class="large-5 medium-6 small-12 columns">
+                        <div class="dc-data-count">
+                           <span class="filter-count"></span> records selected out of <span class="total-count"></span> | <a href="javascript:dc.filterAll(); dc.renderAll();">reset all</a><br><br>
+                        </div>
+                     </div>
+                  </div>
+                     <div class="row">
+                     <div class="large-12 columns small-12 columns"> 
+                     <h5 class="subheader" data-tooltip data-options="disable_for_touch:true" class="has-tip" title="Click on one or more bars to filter">Keyword sentiment by...</h5>
+                       </div>
+                  </div>
+                  <div class="row">
+                     <div class="large-12 columns small-12 columns">  
+                        
+                        
+                        <div class="large-3 columns medium-3 small-12 columns">
+                              <ul class="large-block-grid-1 small-block-grid-1">
+                              <li >
+                                 <div id="yearBar" class="dc-chart">
+                                    <h5 class="subheader" data-tooltip data-options="disable_for_touch:true" class="has-tip" title="Click to filter year">...year</h5>
+                                    <a class="reset" href="javascript:yearBar.filterAll();dc.redrawAll();"
+                                       style="display: none;">reset</a>
+                                    <div class="clearfix"></div>
+                                 </div>
+                              </li >
+                           </ul>
+                     </div>
+                        <div class="large-2 columns medium-2 small-12 columns">
+                           <ul class="large-block-grid-1 small-block-grid-2">
+                              <li >
+                                 <div id="ratingBar" class="dc-chart">
+                                    <h5 class="subheader" data-tooltip data-options="disable_for_touch:true" class="has-tip" title="Click to filter rating. Bad = one or two stars, Good= five or six stars">...rating</h5>
+                                    <a class="reset" href="javascript:ratingBar.filterAll();dc.redrawAll();"
+                                       style="display: none;">reset</a>
+                                    <div class="clearfix"></div>
+                                 </div>
+                              </li>    
+                           </ul>
+                        </div>
+                        <div class="large-7 columns medium-7 small-12 columns">
+                           <ul class="large-block-grid-1 small-block-grid-2">
+                              <li>
+                                 <div id="shipBar" class="dc-chart">
+                                    <h5 class="subheader" data-tooltip data-options="disable_for_touch:true" class="has-tip" title="Click to filter the most frequent keywords of a given ship">...and ship</h5>
+                                    <a class="reset" href="javascript:shipBar.filterAll();dc.redrawAll();"
+                                       style="display: none;">reset</a>
+                                    <div class="clearfix"></div>
+                                 </div>
+                              </li>
+                          </ul>
+                        </div>
+                        </div>
+                     </div>
+
+
+                  <div class="row">
+                     <div class="large-12 columns small-12 columns">  
+                        <div class="large-6 columns medium-6 small-12 columns">
+                              <ul class="large-block-grid-1 small-block-grid-1">
+                              <li >
+                                 <div id="positiveBar" class="dc-chart">
+                                    <h5 class="subheader" data-tooltip data-options="disable_for_touch:true" class="has-tip" title="Most frequent keywords associated with positive sentiment">Top positive sentiment keywords (# of mentions)</h5>
+                                    <a class="reset" href="javascript:positiveBar.filterAll();dc.redrawAll();"
+                                       style="display: none;">reset</a>
+                                    <div class="clearfix"></div>
+                                 </div>
+
+                              </li >
+                           </ul>
+                     </div>
+                        <div class="large-6 columns medium-6 small-12 columns">
+                           <ul class="large-block-grid-1 small-block-grid-2">
+                              <li >
+                                 <div id="negativeBar" class="dc-chart">
+                                    <h5 class="subheader" data-tooltip data-options="disable_for_touch:true" class="has-tip" title="Most frequent keywords associated with negative sentiment">Top negative sentiment keywords (# of mentions)</h5>
+                                    <a class="reset" href="javascript:negativeBar.filterAll();dc.redrawAll();"
+                                       style="display: none;">reset</a>
+                                    <div class="clearfix"></div> 
+                                 </div>                                   
+                              </li>    
+                           </ul>
+                        </div>
+                  </div>
+               </div>   
+            </div>
+         </div>
+            <script type="text/javascript"></script>
+            <script src="js/script_check_ie_no_ita.js"></script>
+            <script src="js/script_word_sentiment.js"></script>
+            <script src="js/foundation.min.js"></script>
+            <script src="js/foundation/foundation.dropdown.js"></script>
+            <script>
+               $(document).foundation();
+            </script>
+         </body>
+      </html>

@@ -1,0 +1,3179 @@
+,Word,Rating,Year,Ship,Line,Negative,Positive,Total
+0,11th deck,bad,2011,MSC Opera,Msc,1.0,0.0,1.0
+1,12th deck,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+2,13th deck,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+3,13th floor,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+4,15 min,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+5,19 night cruise,good,2012,MSC Sinfonia,Msc,0.0,1.0,1.0
+6,20th anniversary trip,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+7,25th wedding anniversary,bad,2010,MSC Fantasia,Msc,0.0,1.0,1.0
+8,35th wedding anniversary,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+9,40th wedding anniversary,bad,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+10,40th wedding anniversary,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+11,4course meals,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+12,4d theater,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+13,60th birthday,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+14,75 cents,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+15,a alcoholic beverages,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+16,abject misery,bad,2010,MSC Sinfonia,Msc,1.0,0.0,1.0
+17,absolute worst aspect,good,2014,MSC Lirica,Msc,1.0,0.0,1.0
+18,absolutely beautiful place,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+19,absolutely beautiful ship,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+20,absolutely best cabin,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+21,absolutely fantastic cruise,good,2009,MSC Poesia,Msc,0.0,1.0,1.0
+22,absolutely gorgeous furnishings,good,2008,MSC Musica,Msc,0.0,1.0,1.0
+23,absolutely gorgeous ship,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+24,absolutely loved ship,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+25,absolutely mindblowing experience,good,2012,MSC Sinfonia,Msc,0.0,1.0,1.0
+26,absolutely terrible experience,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+27,absolutely unbearable gaggle,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+28,abu dabhi airport,bad,2012,MSC Lirica,Msc,1.0,0.0,1.0
+29,acceptable standard,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+30,accounts staff,good,2013,MSC Armonia,Msc,1.0,0.0,1.0
+31,acidic heartburn,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+32,acrobatics team,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+33,actual food quality,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+34,actually performance time,bad,2014,MSC Sinfonia,Msc,1.0,0.0,1.0
+35,added bonus,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+36,additional seasoning,bad,2013,MSC Poesia,Msc,1.0,0.0,1.0
+37,adequate food,bad,2011,MSC Magnifica,Msc,1.0,0.0,1.0
+38,adequate open areas,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+39,adequate quality,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+40,adult areas,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+41,adultsonly sunbathing area,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+42,afew tips,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+43,affordable rate,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+44,affordable way,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+45,aft balcony,good,2011,MSC Musica,Msc,0.0,1.0,1.0
+46,aft pool,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+47,aft view,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+48,aftercruise blues syndrome,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+49,afternoon everyday,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+50,afternoon teas,good,2012,MSC Opera,Msc,0.0,1.0,1.0
+51,air conditioned tour,good,2009,MSC Poesia,Msc,0.0,1.0,1.0
+52,airboat ride,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+53,airport terminal,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+54,alcoholic drinks,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+55,all inclusive alcohol,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+56,allegressimo drink package,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+57,allegrisimo package,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+58,allegrisimo package,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+59,allegrissimo classic package,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+60,allegrissimo drinks package,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+61,allegrissimo package,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+62,allegrissmo drinks packages,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+63,allinclusive allegrissimo package,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+64,allinclusive package,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+65,always lovely porters,good,2011,MSC Fantasia,Msc,0.0,1.0,1.0
+66,amateur night,bad,2010,MSC Fantasia,Msc,1.0,0.0,1.0
+67,amazing choice,good,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+68,amazing cruise,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+69,amazing dancers,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+70,amazing desserts,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+71,amazing family portraits,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+72,amazing food,bad,2012,MSC Musica,Msc,0.0,1.0,1.0
+73,amazing food,good,2011,MSC Musica,Msc,0.0,1.0,1.0
+74,amazing food sculptures,bad,2010,MSC Musica,Msc,0.0,1.0,1.0
+75,amazing itinerary,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+76,amazing kaping,good,2014,MSC Splendida,Msc,0.0,1.0,1.0
+77,amazing lighting,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+78,amazing panoramic lifts,good,2014,MSC Splendida,Msc,0.0,1.0,1.0
+79,amazing quality camera,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+80,amazing selection,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+81,amazing service,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+82,amazing ship,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+83,amazing shows,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+84,amazing tenor voice,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+85,amazing trips,bad,2010,MSC Musica,Msc,0.0,1.0,1.0
+86,amazing value,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+87,amazing value,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+88,amazing views,bad,2012,MSC Musica,Msc,0.0,1.0,1.0
+89,amazing way,good,2009,MSC Poesia,Msc,0.0,1.0,1.0
+90,american companies,bad,2012,MSC Magnifica,Msc,0.0,1.0,1.0
+91,american cruise lines,bad,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+92,american junk food,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+93,american market,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+94,american travellers,good,2012,MSC Armonia,Msc,1.0,0.0,1.0
+95,ample choices,good,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+96,ample equipment,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+97,ample public spaces,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+98,ample seating,good,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+99,ample space,good,2009,MSC Poesia,Msc,0.0,1.0,1.0
+100,ancient greek theatre,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+101,animation staff,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+102,animation team,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+103,animation team,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+104,anniversary celebration cruise,bad,2010,MSC Musica,Msc,1.0,0.0,1.0
+105,annoying thing,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+106,annual holiday,good,2012,MSC Splendida,Msc,1.0,0.0,1.0
+107,anti diarrhea medication,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+108,apple pie,bad,2014,MSC Magnifica,Msc,1.0,0.0,1.0
+109,arche noah,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+110,areassignageor bus transportsplan,bad,2011,MSC Splendida,Msc,1.0,0.0,1.0
+111,aroma bar staff,good,2012,MSC Opera,Msc,0.0,1.0,1.0
+112,arrogant crew members,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+113,arrogant stupidity,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+114,art deco,good,2014,MSC Armonia,Msc,0.0,1.0,1.0
+115,art deco style,good,2012,MSC Opera,Msc,0.0,1.0,1.0
+116,asian trio,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+117,assistant cd,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+118,assistant hotel manager,bad,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+119,assistant maitre,bad,2014,MSC Poesia,Msc,1.0,0.0,1.0
+120,asst waiters,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+121,atlantic city,good,2011,MSC Magnifica,Msc,0.0,1.0,1.0
+122,atlantic crossing,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+123,attentive crew,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+124,attentive head waiter,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+125,attentive waiters,bad,2011,MSC Magnifica,Msc,0.0,1.0,1.0
+126,attentive waiters,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+127,attractive cruise deal,good,2014,MSC Lirica,Msc,0.0,1.0,1.0
+128,attractive packages,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+129,aurea spa,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+130,australian table,bad,2013,MSC Splendida,Msc,0.0,1.0,1.0
+131,authentic gelato,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+132,authentic italianstyle pies,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+133,authentically italian cuisine,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+134,available staff,bad,2009,MSC Fantasia,Msc,1.0,0.0,1.0
+135,average balcony brilliant,bad,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+136,awesome background music,good,2009,MSC Splendida,Msc,0.0,1.0,1.0
+137,awesome dining staff,bad,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+138,awesome job,bad,2014,MSC Poesia,Msc,0.0,1.0,1.0
+139,awesome time,good,2014,MSC Magnifica,Msc,1.0,0.0,1.0
+140,awesome views,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+141,baby sitting services,bad,2011,MSC Sinfonia,Msc,1.0,0.0,1.0
+142,bad bits,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+143,bad business decision,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+144,bad cruise,bad,2009,MSC Poesia,Msc,1.0,0.0,1.0
+145,bad cruise,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+146,bad customer relations,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+147,bad experience,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+148,bad food,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+149,bad food,bad,2011,MSC Fantasia,Msc,1.0,0.0,1.0
+150,bad food,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+151,bad parts,bad,2013,MSC Lirica,Msc,1.0,0.0,1.0
+152,bad points,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+153,bad poolside service,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+154,bad review,bad,2014,MSC Musica,Msc,1.0,0.0,1.0
+155,bad reviews,bad,2011,MSC Magnifica,Msc,1.0,0.0,1.0
+156,bad reviews,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+157,bad reviews,good,2012,MSC Poesia,Msc,1.0,0.0,1.0
+158,bad reviews,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+159,bad reviews,good,2014,MSC Opera,Msc,2.0,0.0,2.0
+160,bad school cafeteria,bad,2010,MSC Orchestra,Msc,1.0,0.0,1.0
+161,bad service,bad,2010,MSC Lirica,Msc,1.0,0.0,1.0
+162,bad service,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+163,bad staff attitudes,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+164,bad start,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+165,bad taste,good,2012,MSC Splendida,Msc,1.0,0.0,1.0
+166,bad things,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+167,bad weather conditions,good,2012,MSC Sinfonia,Msc,1.0,0.0,1.0
+168,badly mannered cruise,bad,2013,MSC Splendida,Msc,1.0,0.0,1.0
+169,baked alaska parade,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+170,baked tomatoes,bad,2008,MSC Sinfonia,Msc,0.0,1.0,1.0
+171,balcony cabin,bad,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+172,balcony cabin,bad,2013,MSC Lirica,Msc,0.0,1.0,1.0
+173,balcony cabin,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+174,balcony cabin,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+175,balcony cabin,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+176,balcony cabin,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+177,balcony cabin,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+178,balcony cabin,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+179,balcony cabin,good,2013,MSC Fantasia,Msc,0.0,2.0,2.0
+180,balcony cabin,good,2013,MSC Orchestra,Msc,0.0,1.0,1.0
+181,balcony cabin,good,2014,MSC Divina,Msc,0.0,3.0,3.0
+182,balcony cabins,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+183,balcony cabins,good,2014,MSC Divina,Msc,0.0,2.0,2.0
+184,balcony experience,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+185,balcony fine,bad,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+186,balcony guarantee,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+187,balcony next time,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+188,balcony nice seating,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+189,balcony reading,bad,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+190,balcony repaired whilst,bad,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+191,balcony room,bad,2012,MSC Divina,Msc,1.0,0.0,1.0
+192,balcony room,bad,2014,MSC Divina,Msc,1.0,1.0,2.0
+193,balcony room,bad,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+194,balcony room,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+195,balcony room,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+196,balcony room,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+197,balcony stateroom,bad,2009,MSC Poesia,Msc,0.0,1.0,1.0
+198,balcony suite,bad,2012,MSC Sinfonia,Msc,0.0,2.0,2.0
+199,balcony suite,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+200,bali massage,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+201,bali style massage,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+202,balinese crew,good,2009,MSC Poesia,Msc,0.0,1.0,1.0
+203,ballroom dancing,bad,2013,MSC Poesia,Msc,0.0,1.0,1.0
+204,baltic cruises,good,2011,MSC Orchestra,Msc,0.0,1.0,1.0
+205,banquet seating,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+206,bar personnel,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+207,bar prices,good,2013,MSC Opera,Msc,1.0,0.0,1.0
+208,bar service,bad,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+209,bar service,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+210,bar service,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+211,bar service,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+212,bar service,good,2013,MSC Armonia,Msc,1.0,0.0,1.0
+213,bar service,good,2013,MSC Opera,Msc,1.0,0.0,1.0
+214,bar staff,bad,2012,MSC Divina,Msc,1.0,0.0,1.0
+215,bar staff,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+216,bar staff,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+217,barcelonaa night,bad,2010,MSC Orchestra,Msc,0.0,1.0,1.0
+218,barely time,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+219,bars galore,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+220,basic capitalist tenant,bad,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+221,basic cruise ship,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+222,bath room,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+223,bathroom floor,bad,2014,MSC Poesia,Msc,1.0,0.0,1.0
+224,bautifully presented ice,good,2011,MSC Orchestra,Msc,0.0,1.0,1.0
+225,beautiful areas,bad,2012,MSC Magnifica,Msc,0.0,1.0,1.0
+226,beautiful brass,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+227,beautiful breathtaking views,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+228,beautiful clear skies,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+229,beautiful costumes,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+230,beautiful costuming,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+231,beautiful frescoes,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+232,beautiful gleaming ship,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+233,beautiful inside,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+234,beautiful italian decor,good,2012,MSC Sinfonia,Msc,0.0,1.0,1.0
+235,beautiful main dining,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+236,beautiful parts,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+237,beautiful place,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+238,beautiful place,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+239,beautiful places,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+240,beautiful port,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+241,beautiful public rooms,bad,2012,MSC Magnifica,Msc,0.0,1.0,1.0
+242,beautiful setting,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+243,beautiful ship,bad,2008,MSC Musica,Msc,0.0,1.0,1.0
+244,beautiful ship,bad,2011,MSC Poesia,Msc,0.0,1.0,1.0
+245,beautiful ship,good,2010,MSC Poesia,Msc,0.0,2.0,2.0
+246,beautiful ship,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+247,beautiful shipand,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+248,beautiful stateroom,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+249,beautifully prepared food,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+250,beef pasta pizza,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+251,bellini deck,bad,2013,MSC Lirica,Msc,0.0,1.0,1.0
+252,ben jebar mtbjebara,bad,2013,MSC Splendida,Msc,0.0,1.0,1.0
+253,berth cabin,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+254,best baked alaska,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+255,best bargain,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+256,best cruise ship,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+257,best cruises,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+258,best cruises,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+259,best desert,bad,2014,MSC Magnifica,Msc,1.0,0.0,1.0
+260,best dessert,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+261,best european friends,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+262,best family vacation,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+263,best food,bad,2014,MSC Divina,Msc,0.0,2.0,2.0
+264,best italian cuisine,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+265,best italian icecream,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+266,best items,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+267,best midnight,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+268,best msc,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+269,best overall cruise,good,2014,MSC Armonia,Msc,0.0,1.0,1.0
+270,best overall line,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+271,best piece,bad,2012,MSC Armonia,Msc,0.0,1.0,1.0
+272,best pizza,bad,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+273,best quality,good,2011,MSC Musica,Msc,0.0,1.0,1.0
+274,best reserved dinning,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+275,best seating locations,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+276,best tasting coffee,bad,2010,MSC Splendida,Msc,0.0,1.0,1.0
+277,best thing,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+278,best things,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+279,best things,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+280,best waiter,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+281,best way,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+282,best western oceanview,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+283,better choice,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+284,better cruising options,bad,2014,MSC Opera,Msc,0.0,1.0,1.0
+285,better culinary skills,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+286,better customer service,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+287,better food,bad,2012,MSC Musica,Msc,0.0,1.0,1.0
+288,better luck,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+289,better menu,bad,2010,MSC Orchestra,Msc,1.0,0.0,1.0
+290,better product offering,bad,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+291,better public relations,bad,2012,MSC Magnifica,Msc,0.0,1.0,1.0
+292,better quality cruise,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+293,big clunky ones,good,2013,MSC Divina,Msc,1.0,0.0,1.0
+294,big confusion,bad,2008,MSC Musica,Msc,1.0,0.0,1.0
+295,big cruise line,bad,2009,MSC Poesia,Msc,1.0,0.0,1.0
+296,big dance floor,good,2013,MSC Magnifica,Msc,0.0,1.0,1.0
+297,big dining room,bad,2012,MSC Opera,Msc,1.0,0.0,1.0
+298,big disappointment,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+299,big disappointment,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+300,big food disappointment,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+301,big hassle,good,2009,MSC Lirica,Msc,1.0,0.0,1.0
+302,big mistake,bad,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+303,big mistake,bad,2012,MSC Lirica,Msc,1.0,0.0,1.0
+304,big mistake,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+305,big outbreak,bad,2008,MSC Musica,Msc,1.0,0.0,1.0
+306,big pleasure,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+307,big problem,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+308,big queue,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+309,big smile,bad,2013,MSC Poesia,Msc,0.0,1.0,1.0
+310,big smile,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+311,big smile,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+312,big window,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+313,bigger hole,good,2012,MSC Splendida,Msc,1.0,0.0,1.0
+314,biggest complaint,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+315,biggest complaint,good,2012,MSC Poesia,Msc,1.0,0.0,1.0
+316,biggest disappointment,bad,2010,MSC Musica,Msc,1.0,0.0,1.0
+317,biggest disappointment,bad,2012,MSC Sinfonia,Msc,1.0,0.0,1.0
+318,biggest disappointment,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+319,biggest rip,good,2012,MSC Splendida,Msc,1.0,0.0,1.0
+320,bike friendly cities,good,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+321,bingo entertainment,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+322,bit boring,good,2014,MSC Orchestra,Msc,1.0,0.0,1.0
+323,bit chaoticyou,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+324,bit hit,bad,2013,MSC Armonia,Msc,1.0,0.0,1.0
+325,bit manic,good,2011,MSC Splendida,Msc,1.0,0.0,1.0
+326,bit shambolicbuffet breakfast,bad,2013,MSC Opera,Msc,1.0,0.0,1.0
+327,bitter taste,good,2012,MSC Splendida,Msc,1.0,0.0,1.0
+328,black crab,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+329,black crab,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+330,black crab decor,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+331,black crab restaurant,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+332,bland commercial pop,good,2012,MSC Poesia,Msc,1.0,0.0,1.0
+333,bland food,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+334,bland pudding,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+335,blonde cheerleader type,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+336,blood oranges,bad,2008,MSC Sinfonia,Msc,0.0,1.0,1.0
+337,blue card,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+338,blue cheese sauce,good,2013,MSC Orchestra,Msc,0.0,1.0,1.0
+339,blue groups,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+340,blue lounge,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+341,blue marlin bar,good,2012,MSC Musica,Msc,1.0,0.0,1.0
+342,blue roofs,bad,2012,MSC Musica,Msc,0.0,1.0,1.0
+343,blueberry cheesecake,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+344,board account,good,2014,MSC Lirica,Msc,0.0,1.0,1.0
+345,board cabin,bad,2013,MSC Armonia,Msc,0.0,1.0,1.0
+346,board entertainment,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+347,board experience,bad,2014,MSC Sinfonia,Msc,0.0,1.0,1.0
+348,board msc,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+349,board msc fantasia,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+350,boarding process,good,2009,MSC Musica,Msc,0.0,1.0,1.0
+351,bold review,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+352,bonus slot play,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+353,bora bora,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+354,bora bora,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+355,borghese dining room,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+356,boring cnn,good,2009,MSC Opera,Msc,1.0,0.0,1.0
+357,boring process,good,2013,MSC Fantasia,Msc,1.0,0.0,1.0
+358,boring staid smokey,bad,2012,MSC Fantasia,Msc,1.0,0.0,1.0
+359,bottled water,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+360,boulder strewn death,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+361,boyspoor hygiene,bad,2013,MSC Opera,Msc,0.0,1.0,1.0
+362,brash behavior,good,2009,MSC Poesia,Msc,1.0,0.0,1.0
+363,bread chefs,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+364,breakfast buffet,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+365,breakfast buffet,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+366,breakfast buffet,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+367,breakfast time,bad,2010,MSC Splendida,Msc,0.0,1.0,1.0
+368,brief tropical shower,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+369,bright spot,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+370,brightly lit,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+371,brillant time,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+372,brilliant acrobats,bad,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+373,brilliant acrobats,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+374,brilliant pianist,bad,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+375,brilliant time,bad,2014,MSC Opera,Msc,0.0,1.0,1.0
+376,brilliant waiter,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+377,brilliant weather,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+378,british airways,good,2010,MSC Fantasia,Msc,0.0,1.0,1.0
+379,british holiday experience,bad,2011,MSC Splendida,Msc,0.0,1.0,1.0
+380,buffet area,good,2013,MSC Armonia,Msc,1.0,0.0,1.0
+381,buffet area,good,2014,MSC Divina,Msc,1.0,2.0,3.0
+382,buffet area,good,2014,MSC Sinfonia,Msc,0.0,1.0,1.0
+383,buffet bora bora,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+384,buffet breakfast,good,2014,MSC Lirica,Msc,0.0,1.0,1.0
+385,buffet choices,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+386,buffet dining,good,2011,MSC Poesia,Msc,1.0,0.0,1.0
+387,buffet dining area,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+388,buffet dining room,good,2013,MSC Lirica,Msc,0.0,1.0,1.0
+389,buffet food,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+390,buffet food,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+391,buffet food choices,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+392,buffet line,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+393,buffet lines,bad,2012,MSC Fantasia,Msc,1.0,0.0,1.0
+394,buffet lunch waiters,bad,2011,MSC Opera,Msc,1.0,0.0,1.0
+395,buffet restaurant,bad,2012,MSC Sinfonia,Msc,1.0,0.0,1.0
+396,buffet restaurant,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+397,buffet restaurant,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+398,buffet restaurantthe evening,good,2011,MSC Musica,Msc,0.0,1.0,1.0
+399,buffet staff,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+400,buffet tables,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+401,buffet times,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+402,builtin hair dryermirror,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+403,bulky life vests,bad,2013,MSC Poesia,Msc,1.0,0.0,1.0
+404,bun fight,good,2013,MSC Opera,Msc,1.0,0.0,1.0
+405,burgers hot dogs,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+406,bus journey,bad,2012,MSC Magnifica,Msc,0.0,1.0,1.0
+407,bussola restaurant,good,2014,MSC Lirica,Msc,0.0,1.0,1.0
+408,busy entertainment schedule,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+409,cabin,bad,2008,MSC Musica,Msc,0.0,1.0,1.0
+410,cabin attendant,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+411,cabin attendant,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+412,cabin crew,bad,2010,MSC Magnifica,Msc,1.0,0.0,1.0
+413,cabin immaculate,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+414,cabin maid,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+415,cabin notice,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+416,cabin service,bad,2012,MSC Fantasia,Msc,1.0,0.0,1.0
+417,cabin service,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+418,cabin service staff,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+419,cabin staff,bad,2013,MSC Lirica,Msc,0.0,1.0,1.0
+420,cabin staff,good,2010,MSC Sinfonia,Msc,0.0,1.0,1.0
+421,cabin staff,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+422,cabin steward,bad,2010,MSC Splendida,Msc,0.0,1.0,1.0
+423,cabin steward,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+424,cabin steward,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+425,cabin steward,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+426,cabin steward,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+427,cabin steward,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+428,cabin steward,good,2013,MSC Poesia,Msc,1.0,0.0,1.0
+429,cabin steward,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+430,cabin steward,good,2014,MSC Divina,Msc,0.0,4.0,4.0
+431,cabin steward,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+432,cabin steward,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+433,cabin stewards,bad,2010,MSC Poesia,Msc,0.0,2.0,2.0
+434,cabin stewards,bad,2015,MSC Divina,Msc,0.0,1.0,1.0
+435,cabin stewards,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+436,cabin stewards,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+437,cable car,bad,2011,MSC Musica,Msc,1.0,0.0,1.0
+438,cafeteria buffet,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+439,cafeteria food,bad,2010,MSC Lirica,Msc,1.0,0.0,1.0
+440,canal boat trip,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+441,capable captainthe ship,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+442,card room,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+443,card tables,bad,2009,MSC Lirica,Msc,1.0,0.0,1.0
+444,carlo felice theater,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+445,carlo felice theater,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+446,carving station,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+447,casino amazing,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+448,casual dining area,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+449,casual dinning nights,bad,2009,MSC Sinfonia,Msc,0.0,1.0,1.0
+450,casual nightshow refreshing,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+451,celebrity silhouette,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+452,cellphone sims,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+453,central atrium,bad,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+454,central atrium,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+455,centrum bar,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+456,centuryreturn flights,bad,2010,MSC Orchestra,Msc,0.0,1.0,1.0
+457,chanukkah candle lighting,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+458,chaotic shambles,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+459,charming honfleur,bad,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+460,charming server,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+461,cheap cuts,bad,2014,MSC Magnifica,Msc,1.0,0.0,1.0
+462,cheap linens,bad,2008,MSC Musica,Msc,2.0,0.0,2.0
+463,cheap plastic imitation,bad,2008,MSC Musica,Msc,2.0,0.0,2.0
+464,cheap tat,good,2009,MSC Poesia,Msc,1.0,0.0,1.0
+465,cheapest crap,bad,2011,MSC Opera,Msc,1.0,0.0,1.0
+466,checkin procedure,good,2013,MSC Preziosa,Msc,1.0,0.0,1.0
+467,cheeky cocktail,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+468,chefs special pasta,bad,2009,MSC Sinfonia,Msc,0.0,1.0,1.0
+469,chest infections,bad,2013,MSC Splendida,Msc,1.0,0.0,1.0
+470,chesty type flu,bad,2008,MSC Musica,Msc,1.0,0.0,1.0
+471,chief officer,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+472,child size portions,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+473,childish chant,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+474,childs fault,good,2011,MSC Fantasia,Msc,1.0,0.0,1.0
+475,christmas cruise,bad,2009,MSC Poesia,Msc,0.0,1.0,1.0
+476,cigar room,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+477,cigarette smoke,bad,2013,MSC Poesia,Msc,1.0,0.0,1.0
+478,cigarette smoke bothers,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+479,circuslike acts,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+480,cirque style shows,bad,2011,MSC Musica,Msc,0.0,1.0,1.0
+481,city emergency rooms,bad,2009,MSC Musica,Msc,1.0,0.0,1.0
+482,classic coffee drinks,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+483,classic operatic songs,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+484,classical concerts,good,2011,MSC Opera,Msc,0.0,1.0,1.0
+485,classical violinist play,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+486,classy interior design,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+487,clean large ship,bad,2012,MSC Splendida,Msc,0.0,1.0,1.0
+488,clean ship,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+489,clean ship,good,2009,MSC Orchestra,Msc,0.0,2.0,2.0
+490,clean sparkling city,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+491,clear information,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+492,clientele lift,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+493,clingy curtain,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+494,clingy shower curtain,good,2012,MSC Lirica,Msc,0.0,1.0,1.0
+495,closed photo shop,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+496,coach transfer,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+497,coastal route,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+498,coco cay,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+499,coeliac uk magazine,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+500,coffee bar ,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+501,coffee cup,good,2013,MSC Poesia,Msc,1.0,0.0,1.0
+502,coffee etcother passengers,bad,2011,MSC Opera,Msc,1.0,0.0,1.0
+503,coffee flavors,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+504,coffee taste stale,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+505,cold mini omelettes,bad,2013,MSC Armonia,Msc,1.0,0.0,1.0
+506,cold soups,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+507,colour scheme fantastic,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+508,comfortable armchairs,good,2009,MSC Splendida,Msc,0.0,1.0,1.0
+509,comfortable bed,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+510,comfortable beds,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+511,comfortable chairs,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+512,comfortable decibel level,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+513,comfortable feeling,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+514,comfortable lounging places,good,2013,MSC Divina,Msc,1.0,0.0,1.0
+515,comfortable meeting place,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+516,comfy bed,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+517,common areas,bad,2011,MSC Orchestra,Msc,1.0,0.0,1.0
+518,common areas,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+519,common complaint,bad,2010,MSC Orchestra,Msc,1.0,0.0,1.0
+520,communication service,good,2013,MSC Armonia,Msc,1.0,0.0,1.0
+521,comparable size balcony,bad,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+522,complete disregard,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+523,complete exhaustion,bad,2009,MSC Fantasia,Msc,1.0,0.0,1.0
+524,complete rip,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+525,complete sets,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+526,complete waste,bad,2011,MSC Orchestra,Msc,1.0,0.0,1.0
+527,complete waste,bad,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+528,complete waste,bad,2014,MSC Musica,Msc,1.0,0.0,1.0
+529,complimentary access,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+530,complimentary back massage,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+531,complimentary birthday cake,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+532,complimentary continental breakfast,bad,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+533,complimentary fresh fruit,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+534,complimentary room service,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+535,complimentary water,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+536,comprehensive book,bad,2010,MSC Orchestra,Msc,0.0,1.0,1.0
+537,comprehensive book,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+538,conceivable dish,good,2011,MSC Orchestra,Msc,0.0,1.0,1.0
+539,concert schedule,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+540,condensed la traviata,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+541,confusing detours,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+542,conga lines,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+543,consistent negative reviews,good,2011,MSC Magnifica,Msc,1.0,0.0,1.0
+544,cool fountain,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+545,copious amounts,good,2014,MSC Sinfonia,Msc,1.0,0.0,1.0
+546,corrective comments,good,2014,MSC Sinfonia,Msc,0.0,1.0,1.0
+547,cost effective way,good,2011,MSC Fantasia,Msc,0.0,1.0,1.0
+548,costa cruise lines,bad,2012,MSC Musica,Msc,0.0,1.0,1.0
+549,countless strollers,good,2012,MSC Splendida,Msc,1.0,0.0,1.0
+550,coupon book,good,2008,MSC Musica,Msc,0.0,1.0,1.0
+551,coupon book,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+552,course dinner,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+553,course lunches,good,2012,MSC Opera,Msc,0.0,1.0,1.0
+554,courteous irifan,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+555,courteous staff,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+556,covent garden theatre,good,2013,MSC Orchestra,Msc,0.0,1.0,1.0
+557,cozy alcove banquet,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+558,cozy alcoves,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+559,crab dining room,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+560,craft classes,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+561,crap shoot,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+562,crappy mini pot,bad,2010,MSC Lirica,Msc,1.0,0.0,1.0
+563,credit card,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+564,credit card company,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+565,credit card companyi,bad,2011,MSC Fantasia,Msc,1.0,0.0,1.0
+566,credit card details,good,2011,MSC Orchestra,Msc,0.0,1.0,1.0
+567,crew members,bad,2013,MSC Poesia,Msc,0.0,1.0,1.0
+568,crew members,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+569,crew members,good,2009,MSC Poesia,Msc,1.0,0.0,1.0
+570,crew members,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+571,crisp romaine lettuce,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+572,crispy bacon,good,2014,MSC Musica,Msc,0.0,1.0,1.0
+573,cruise,bad,2009,MSC Poesia,Msc,1.0,0.0,1.0
+574,cruise cabin,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+575,cruise card,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+576,cruise company,bad,2010,MSC Magnifica,Msc,1.0,0.0,1.0
+577,cruise company,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+578,cruise critic,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+579,cruise critic people,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+580,cruise critic site,good,2012,MSC Fantasia,Msc,1.0,0.0,1.0
+581,cruise director,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+582,cruise director,bad,2009,MSC Poesia,Msc,1.0,0.0,1.0
+583,cruise director,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+584,cruise director,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+585,cruise director,good,2010,MSC Sinfonia,Msc,0.0,1.0,1.0
+586,cruise director,good,2014,MSC Divina,Msc,0.0,2.0,2.0
+587,cruise directorhe,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+588,cruise directorhis input,bad,2011,MSC Opera,Msc,1.0,0.0,1.0
+589,cruise discount,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+590,cruise employees,good,2009,MSC Musica,Msc,0.0,1.0,1.0
+591,cruise entertainment director,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+592,cruise excursions,good,2008,MSC Musica,Msc,0.0,1.0,1.0
+593,cruise exercisedance classes,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+594,cruise experience,bad,2013,MSC Divina,Msc,2.0,0.0,2.0
+595,cruise experience,bad,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+596,cruise experience,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+597,cruise feedback form,good,2013,MSC Splendida,Msc,1.0,0.0,1.0
+598,cruise great ship,good,2013,MSC Magnifica,Msc,0.0,1.0,1.0
+599,cruise line,bad,2013,MSC Poesia,Msc,1.0,0.0,1.0
+600,cruise line,good,2009,MSC Poesia,Msc,1.0,0.0,1.0
+601,cruise line,good,2014,MSC Divina,Msc,0.0,2.0,2.0
+602,cruise line witha,good,2011,MSC Orchestra,Msc,0.0,1.0,1.0
+603,cruise lines,bad,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+604,cruise lines,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+605,cruise lines,bad,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+606,cruise lines,good,2012,MSC Splendida,Msc,1.0,0.0,1.0
+607,cruise lines,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+608,cruise lines,good,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+609,cruise loving friends,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+610,cruise mates,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+611,cruise offering,bad,2011,MSC Sinfonia,Msc,1.0,0.0,1.0
+612,cruise passenger,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+613,cruise pleasant,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+614,cruise port,bad,2011,MSC Splendida,Msc,1.0,0.0,1.0
+615,cruise program,good,2011,MSC Poesia,Msc,1.0,0.0,1.0
+616,cruise ship,bad,2008,MSC Musica,Msc,1.0,0.0,1.0
+617,cruise ship,bad,2009,MSC Lirica,Msc,1.0,0.0,1.0
+618,cruise ship,bad,2011,MSC Poesia,Msc,2.0,0.0,2.0
+619,cruise ship,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+620,cruise ship,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+621,cruise ship,good,2009,MSC Musica,Msc,0.0,1.0,1.0
+622,cruise ship,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+623,cruise ship,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+624,cruise ship marketthe,bad,2011,MSC Opera,Msc,1.0,0.0,1.0
+625,cruise ship shower,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+626,cruise ships,bad,2014,MSC Opera,Msc,0.0,1.0,1.0
+627,cruise terminal,bad,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+628,cruiseliner experience,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+629,cruising friends,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+630,crystal chandeliers,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+631,crystal lounge,bad,2011,MSC Musica,Msc,0.0,1.0,1.0
+632,crystal staircase,good,2011,MSC Fantasia,Msc,0.0,1.0,1.0
+633,crystal staircase,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+634,crystal staircases,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+635,cuban cigars,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+636,cultural queuing aversion,good,2012,MSC Magnifica,Msc,0.0,1.0,1.0
+637,curral beach,bad,2008,MSC Musica,Msc,0.0,1.0,1.0
+638,current cruise disaster,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+639,cursory job,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+640,customer service,bad,2010,MSC Lirica,Msc,1.0,0.0,1.0
+641,customer service,bad,2014,MSC Divina,Msc,2.0,0.0,2.0
+642,customer service,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+643,customer service desk,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+644,customer service rep,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+645,customers tips,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+646,customs lady,bad,2011,MSC Poesia,Msc,0.0,1.0,1.0
+647,cute beachside cafe,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+648,cyber cafe,good,2013,MSC Poesia,Msc,1.0,0.0,1.0
+649,dabruzzo white wine,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+650,daily dinner menu,bad,2013,MSC Splendida,Msc,0.0,1.0,1.0
+651,daily mailreading passengers,good,2013,MSC Orchestra,Msc,0.0,1.0,1.0
+652,daily news letter,bad,2009,MSC Sinfonia,Msc,0.0,1.0,1.0
+653,daily service charge,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+654,daily ship news,bad,2008,MSC Musica,Msc,1.0,0.0,1.0
+655,daily unlimited drink,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+656,damage report,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+657,dance floor,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+658,dance lessons,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+659,dance lessons,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+660,dance music,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+661,daythe pool area,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+662,daytime entertainment,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+663,dazzling 1250seat teatro,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+664,dazzling 1250seat teatro,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+665,deadly pool parties,good,2014,MSC Sinfonia,Msc,0.0,1.0,1.0
+666,decent breakfast,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+667,decent daily beverages,bad,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+668,decent price,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+669,decent selection,bad,2011,MSC Poesia,Msc,0.0,1.0,1.0
+670,decent size,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+671,decent sized pools,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+672,decibel music,bad,2013,MSC Poesia,Msc,1.0,0.0,1.0
+673,deck games,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+674,deck loungers,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+675,deep communication rift,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+676,definitely cruise,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+677,deliberate inefficiency,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+678,delicious buffet breakfast,good,2011,MSC Musica,Msc,0.0,1.0,1.0
+679,delicious dinners,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+680,delicious local cuisine,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+681,delicious local house,good,2008,MSC Sinfonia,Msc,0.0,1.0,1.0
+682,delicious lunch buffet,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+683,delicious mai tai,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+684,delicious smoked gouda,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+685,delightful people,bad,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+686,delightful tour,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+687,delightful walking tour,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+688,departure city,good,2014,MSC Lirica,Msc,0.0,1.0,1.0
+689,designer shopping,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+690,desk room services,bad,2011,MSC Fantasia,Msc,1.0,0.0,1.0
+691,dhow dinner cruise,good,2014,MSC Lirica,Msc,0.0,1.0,1.0
+692,different activities,good,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+693,different beverage,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+694,different choice,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+695,different choices,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+696,different countries,good,2012,MSC Sinfonia,Msc,0.0,1.0,1.0
+697,different countries,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+698,different cruise lines,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+699,different cruise lines,bad,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+700,different cruise lines,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+701,different foods,good,2011,MSC Magnifica,Msc,0.0,1.0,1.0
+702,different languages,good,2014,MSC Musica,Msc,0.0,1.0,1.0
+703,different lounges,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+704,different modes,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+705,different nationalities,good,2011,MSC Poesia,Msc,1.0,0.0,1.0
+706,different occasions,good,2014,MSC Musica,Msc,0.0,1.0,1.0
+707,different people,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+708,different pizzas,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+709,different ports,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+710,different public areas,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+711,different sides,bad,2013,MSC Armonia,Msc,1.0,0.0,1.0
+712,different times,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+713,different times,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+714,different travel agency,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+715,different views,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+716,difficult job way,bad,2013,MSC Magnifica,Msc,1.0,0.0,1.0
+717,dining areas,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+718,dining companions,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+719,dining experience,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+720,dining experience,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+721,dining experience,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+722,dining facility,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+723,dining my husband,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+724,dining room,bad,2010,MSC Magnifica,Msc,1.0,0.0,1.0
+725,dining room,bad,2012,MSC Poesia,Msc,0.0,1.0,1.0
+726,dining room,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+727,dining room,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+728,dining room,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+729,dining room,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+730,dining room,good,2011,MSC Poesia,Msc,0.0,2.0,2.0
+731,dining room,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+732,dining room,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+733,dining room,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+734,dining room,good,2014,MSC Divina,Msc,0.0,2.0,2.0
+735,dining room,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+736,dining room,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+737,dining room ambience,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+738,dining room food,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+739,dining room food,bad,2015,MSC Divina,Msc,1.0,0.0,1.0
+740,dining room food,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+741,dining room staff,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+742,dining room staff,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+743,dining room staff,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+744,dining room staff,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+745,dining room table,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+746,dining room waiter,good,2011,MSC Magnifica,Msc,0.0,1.0,1.0
+747,dining room waiter,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+748,dining room waiters,bad,2012,MSC Magnifica,Msc,0.0,1.0,1.0
+749,dining rooms,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+750,dining rooms,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+751,dining rooms,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+752,dining rooms,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+753,dining rooms,good,2011,MSC Musica,Msc,0.0,1.0,1.0
+754,dining rooms,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+755,dining rooms,good,2014,MSC Divina,Msc,0.0,3.0,3.0
+756,dining staff,bad,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+757,dining staff,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+758,dining times,bad,2012,MSC Splendida,Msc,1.0,0.0,1.0
+759,dinner bad food,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+760,dinner buffets,bad,2012,MSC Musica,Msc,0.0,1.0,1.0
+761,dinner choices,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+762,dinner choices,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+763,dinner company,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+764,dinner group,good,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+765,dinner items,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+766,dinner selections,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+767,dinner service,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+768,dinner service,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+769,dinner staff,good,2011,MSC Magnifica,Msc,0.0,1.0,1.0
+770,dinner suit,good,2013,MSC Orchestra,Msc,0.0,1.0,1.0
+771,dinner time,good,2011,MSC Magnifica,Msc,0.0,1.0,1.0
+772,dinner waiter wase,good,2012,MSC Lirica,Msc,0.0,1.0,1.0
+773,dinner waiters,bad,2008,MSC Musica,Msc,0.0,1.0,1.0
+774,dinning experience,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+775,dinning room,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+776,dinning rooms,bad,2013,MSC Poesia,Msc,0.0,1.0,1.0
+777,dirty patch,good,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+778,disability cabin,good,2012,MSC Musica,Msc,1.0,0.0,1.0
+779,disaffected staff,good,2014,MSC Magnifica,Msc,1.0,0.0,1.0
+780,disappointing cruise experience,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+781,disappointing environment,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+782,disappointing meal,good,2013,MSC Divina,Msc,1.0,0.0,1.0
+783,disappointments entertainment,good,2011,MSC Splendida,Msc,1.0,0.0,1.0
+784,discourteous manner,bad,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+785,disembarkation procedure,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+786,disembarkation procedures,bad,2012,MSC Fantasia,Msc,1.0,0.0,1.0
+787,disgruntled passengers,bad,2008,MSC Musica,Msc,1.0,0.0,1.0
+788,disgusting display,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+789,disinterested italian doctor,bad,2010,MSC Magnifica,Msc,1.0,0.0,1.0
+790,disruptive children,good,2011,MSC Poesia,Msc,1.0,0.0,1.0
+791,dissapointed guests,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+792,dive shop dive,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+793,diverse group,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+794,divina shines,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+795,docks msc,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+796,doubt msc fantasia,bad,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+797,drab pasta,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+798,drag queen parties,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+799,dress code,bad,2009,MSC Sinfonia,Msc,0.0,1.0,1.0
+800,dress code,good,2012,MSC Splendida,Msc,1.0,0.0,1.0
+801,drink coupon book,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+802,drink coupons,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+803,drink vouchers,good,2014,MSC Divina,Msc,0.0,2.0,2.0
+804,drinking companions,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+805,drinks package,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+806,drinks package,good,2013,MSC Armonia,Msc,0.0,2.0,2.0
+807,drinks package,good,2013,MSC Magnifica,Msc,0.0,1.0,1.0
+808,drinks package,good,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+809,drinks package,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+810,drinks packages,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+811,drinks waiters,good,2013,MSC Opera,Msc,1.0,0.0,1.0
+812,du soleiltype acrobats,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+813,dubai cruise,good,2014,MSC Lirica,Msc,1.0,0.0,1.0
+814,duelling duo,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+815,duo ameritalian,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+816,dusk dining,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+817,duty free shop,bad,2011,MSC Opera,Msc,0.0,1.0,1.0
+818,early lunch,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+819,early seating guests,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+820,early wake,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+821,eastern caribbean cruise,bad,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+822,easy cruise,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+823,easy going travelers,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+824,easy walking distance,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+825,easy way,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+826,eco tour,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+827,effecient air conditioning,good,2013,MSC Magnifica,Msc,0.0,1.0,1.0
+828,efficient bathroom,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+829,efficient manner,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+830,elderly parents,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+831,elegant cruise ship,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+832,elegant dining rooms,good,2009,MSC Splendida,Msc,0.0,1.0,1.0
+833,elegant furniture,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+834,elegant roomy,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+835,elegant ship,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+836,elegant touches,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+837,elegant villa rosa,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+838,elevated walkway,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+839,embarcation wa,good,2013,MSC Fantasia,Msc,1.0,0.0,1.0
+840,embarkation,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+841,embarrassing stannard,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+842,emergency drill,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+843,energetic performances,bad,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+844,energy efficient feature,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+845,engaging group,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+846,english abilities,good,2015,MSC Divina,Msc,1.0,0.0,1.0
+847,english breakfast,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+848,english breakfast tea,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+849,english people,bad,2009,MSC Poesia,Msc,0.0,1.0,1.0
+850,english shore tours,bad,2010,MSC Lirica,Msc,1.0,0.0,1.0
+851,english skills,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+852,english speaker,good,2013,MSC Preziosa,Msc,1.0,0.0,1.0
+853,english v foreigner,bad,2012,MSC Fantasia,Msc,1.0,0.0,1.0
+854,enjoyable afternoons,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+855,enjoyable city tour,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+856,enjoyable cruise,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+857,enjoyable cruise,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+858,enjoyable cruise,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+859,enjoyable experience,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+860,enjoyable holiday,good,2011,MSC Fantasia,Msc,0.0,1.0,1.0
+861,enjoyable journey,bad,2010,MSC Orchestra,Msc,0.0,1.0,1.0
+862,enjoyable ports,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+863,enjoyable trip,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+864,enormous theatre,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+865,enormous variety,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+866,ensuite area,good,2012,MSC Lirica,Msc,0.0,1.0,1.0
+867,entertainers half way,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+868,entertainment,bad,2011,MSC Opera,Msc,1.0,0.0,1.0
+869,entertainment brilliant,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+870,entertainment crew,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+871,entertainment heavy users,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+872,entertainment program,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+873,entertainment staff,bad,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+874,entertainment staff,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+875,entertainment staff,bad,2014,MSC Divina,Msc,0.0,2.0,2.0
+876,entertainment staff,good,2009,MSC Orchestra,Msc,0.0,2.0,2.0
+877,entertainment staff,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+878,entertainment staff work,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+879,entertainment team,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+880,entertainment team,bad,2014,MSC Divina,Msc,0.0,2.0,2.0
+881,entertainment team,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+882,entertainment team,good,2013,MSC Armonia,Msc,0.0,2.0,2.0
+883,entertainment team,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+884,entertainment team,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+885,entertainment team,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+886,entertainment team onboard,good,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+887,entire burger,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+888,entire city wall,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+889,entire cocktail menu,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+890,entire cruise,bad,2008,MSC Musica,Msc,1.0,0.0,1.0
+891,entire cruise,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+892,entire food service,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+893,entire front end,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+894,entire group,bad,2011,MSC Musica,Msc,1.0,0.0,1.0
+895,entire staff,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+896,entire time,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+897,entire trip,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+898,entire trip,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+899,entirely different scene,bad,2008,MSC Poesia,Msc,0.0,1.0,1.0
+900,equal service,bad,2010,MSC Splendida,Msc,1.0,0.0,1.0
+901,equally great sights,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+902,etoneca wine bar,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+903,european cruise,bad,2009,MSC Fantasia,Msc,1.0,0.0,1.0
+904,european experience,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+905,european experience cruise,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+906,european flavor,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+907,european neighbours,good,2011,MSC Fantasia,Msc,0.0,1.0,1.0
+908,european style,bad,2011,MSC Musica,Msc,1.0,0.0,1.0
+909,european style,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+910,european style dining,good,2011,MSC Musica,Msc,0.0,1.0,1.0
+911,european way,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+912,euros,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+913,evening dining experience,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+914,evening entertainment,bad,2010,MSC Orchestra,Msc,0.0,1.0,1.0
+915,evening entertainment,good,2013,MSC Magnifica,Msc,0.0,1.0,1.0
+916,evening entertainment,good,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+917,evening entertainment,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+918,evening entertainment,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+919,evening pool party,good,2011,MSC Magnifica,Msc,0.0,1.0,1.0
+920,evenings santoro,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+921,everglades holiday park,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+922,everyones elses vacation,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+923,everyones tastes,good,2011,MSC Fantasia,Msc,1.0,0.0,1.0
+924,evidences poor training,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+925,excellent atmosphere,good,2013,MSC Magnifica,Msc,0.0,1.0,1.0
+926,excellent cabin staff,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+927,excellent cabin steward,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+928,excellent care,bad,2013,MSC Poesia,Msc,0.0,1.0,1.0
+929,excellent care,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+930,excellent cocktails,bad,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+931,excellent cruise,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+932,excellent cruise,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+933,excellent cruise ship,bad,2013,MSC Armonia,Msc,0.0,1.0,1.0
+934,excellent cruise value,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+935,excellent crusts,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+936,excellent cuisine,good,2013,MSC Sinfonia,Msc,0.0,1.0,1.0
+937,excellent desert wine,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+938,excellent entertainment team,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+939,excellent espresso,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+940,excellent experience,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+941,excellent first experience,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+942,excellent food,good,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+943,excellent foodand,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+944,excellent holiday,good,2011,MSC Opera,Msc,0.0,1.0,1.0
+945,excellent holiday,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+946,excellent introduction,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+947,excellent irish entertainment,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+948,excellent irish entertainment,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+949,excellent local foods,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+950,excellent location,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+951,excellent meals,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+952,excellent pizzas,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+953,excellent pricing,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+954,excellent salad,good,2014,MSC Musica,Msc,0.0,1.0,1.0
+955,excellent service,good,2011,MSC Musica,Msc,0.0,1.0,1.0
+956,excellent service,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+957,excellent service,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+958,excellent shows,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+959,excellent singers,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+960,excellent staff,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+961,excellent staff,good,2013,MSC Sinfonia,Msc,0.0,1.0,1.0
+962,excellent stewardess,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+963,excellent sushi dishes,bad,2014,MSC Poesia,Msc,0.0,1.0,1.0
+964,excellent table location,good,2011,MSC Opera,Msc,0.0,1.0,1.0
+965,excellent tiramisu,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+966,excellent trip,good,2011,MSC Orchestra,Msc,0.0,1.0,1.0
+967,excellent value,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+968,excellent value,good,2009,MSC Poesia,Msc,0.0,1.0,1.0
+969,excellent value,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+970,excellent value,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+971,excellent value,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+972,excellent value,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+973,excellent ventilation,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+974,excellent waiters,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+975,exceptional menu,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+976,exceptional service,bad,2012,MSC Sinfonia,Msc,1.0,0.0,1.0
+977,excessive airfare,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+978,exclusive yacht club,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+979,excruciatingly bad itinerary,bad,2015,MSC Divina,Msc,1.0,0.0,1.0
+980,excursion customer service,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+981,excursion management,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+982,expansive spa,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+983,expensive lines,good,2014,MSC Opera,Msc,1.0,0.0,1.0
+984,experience crew members,bad,2013,MSC Poesia,Msc,0.0,1.0,1.0
+985,expert quality entertainment,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+986,extended family,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+987,extensive choice,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+988,extensive continental breakfast,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+989,extensive selection,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+990,extra area,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+991,extra charge services,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+992,extra charges,bad,2013,MSC Armonia,Msc,0.0,1.0,1.0
+993,extra everybody,good,2012,MSC Opera,Msc,0.0,1.0,1.0
+994,extra space,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+995,extraordinary recall,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+996,extravagant occasion,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+997,extremely enjoyable trip,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+998,extremely poor service,bad,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+999,extremely rewarding experience,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+1000,extremely talented singers,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+1001,eye contact,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+1002,fabulous baked alaska,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1003,fabulous breakfast,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+1004,fabulous onboard shopping,bad,2011,MSC Sinfonia,Msc,0.0,1.0,1.0
+1005,fabulous relaxing holiday,good,2014,MSC Splendida,Msc,0.0,1.0,1.0
+1006,fabulous ship,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1007,fabulous sorbets,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1008,fabulous tenor,good,2011,MSC Opera,Msc,0.0,1.0,1.0
+1009,fabulously promised food,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+1010,fair deal,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1011,fair embarkation,bad,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1012,fair share,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+1013,fairly new ship,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1014,fairly reasonable prices,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1015,fairly transparent ploy,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+1016,fake goods,good,2009,MSC Poesia,Msc,1.0,0.0,1.0
+1017,famous ice creams,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+1018,fan shape,good,2014,MSC Armonia,Msc,1.0,0.0,1.0
+1019,fantasic entertainment staff,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1020,fantastic cruise,good,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+1021,fantastic cruise,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1022,fantastic cruise experience,bad,2014,MSC Opera,Msc,0.0,1.0,1.0
+1023,fantastic european vacation,good,2008,MSC Poesia,Msc,0.0,1.0,1.0
+1024,fantastic family holiday,good,2014,MSC Armonia,Msc,0.0,1.0,1.0
+1025,fantastic fellow cruisers,good,2014,MSC Lirica,Msc,0.0,1.0,1.0
+1026,fantastic food,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1027,fantastic furnishings,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1028,fantastic holiday,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1029,fantastic job msc,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1030,fantastic opera night,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1031,fantastic pizza,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1032,fantastic room,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1033,fantastic service,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1034,fantastic staff,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1035,fantastic taxi driver,good,2012,MSC Lirica,Msc,0.0,1.0,1.0
+1036,fantastic vacation,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1037,fantastic value,good,2009,MSC Poesia,Msc,0.0,1.0,1.0
+1038,fantastic value,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1039,fantastic value,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1040,fantastic value,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1041,fantastic value form,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1042,fantastic view,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1043,fantastic way,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1044,fantastica package,good,2015,MSC Splendida,Msc,0.0,1.0,1.0
+1045,fascinating place,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+1046,fault msc,good,2011,MSC Orchestra,Msc,1.0,0.0,1.0
+1047,favorite msc divina,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1048,favorite quiet places,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+1049,feeling msc,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+1050,fellow americans,bad,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+1051,fellow cruise critic,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+1052,filthy cruise,bad,2012,MSC Opera,Msc,1.0,0.0,1.0
+1053,final checkout,bad,2010,MSC Musica,Msc,1.0,0.0,1.0
+1054,final dance,bad,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+1055,finding email facilities,good,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+1056,fine dining,bad,2014,MSC Opera,Msc,0.0,1.0,1.0
+1057,fine dining,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1058,fine dining grade,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+1059,fine effort,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+1060,fine place,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+1061,finger food snacks,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1062,firsttime cruiser,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+1063,fish base,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+1064,fish yummy,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1065,fist fight,bad,2009,MSC Lirica,Msc,1.0,0.0,1.0
+1066,fitness area,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1067,fitness center,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1068,fitness room,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+1069,fitness room,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1070,flat screen,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+1071,flat screen tvs,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+1072,floor covers,bad,2008,MSC Musica,Msc,2.0,0.0,2.0
+1073,floor la terrazzo,bad,2012,MSC Sinfonia,Msc,1.0,0.0,1.0
+1074,floor managers,bad,2014,MSC Orchestra,Msc,1.0,0.0,1.0
+1075,floortoceiling wall mirror,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+1076,floortoceiling wall mirror,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1077,florida departures,good,2013,MSC Poesia,Msc,1.0,0.0,1.0
+1078,florida panhandle lights,bad,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1079,fluffy towel robes,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+1080,folding glass shower,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1081,food areas,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+1082,food food,good,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+1083,food quality,bad,2011,MSC Opera,Msc,1.0,0.0,1.0
+1084,food quality,bad,2013,MSC Armonia,Msc,1.0,0.0,1.0
+1085,food service,good,2011,MSC Orchestra,Msc,0.0,1.0,1.0
+1086,food station,good,2011,MSC Splendida,Msc,1.0,0.0,1.0
+1087,food wise,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+1088,foreign languages,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1089,formal dining,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1090,formal dining,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1091,formal dining,good,2014,MSC Splendida,Msc,0.0,1.0,1.0
+1092,formal dining room,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1093,formal dining room,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1094,formal dining rooms,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+1095,formal dining service,bad,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+1096,formal evenings,bad,2011,MSC Musica,Msc,1.0,0.0,1.0
+1097,formal night,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1098,formal nights,good,2011,MSC Magnifica,Msc,1.0,0.0,1.0
+1099,formal nights,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1100,formal sitdown restaurant,good,2011,MSC Opera,Msc,0.0,1.0,1.0
+1101,fort lauderdale,bad,2010,MSC Orchestra,Msc,0.0,1.0,1.0
+1102,fort lauderdale,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+1103,frank sinatra,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1104,frank sinatra songs,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1105,frank sinatra tribute,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1106,free bottle,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+1107,free breakfast,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+1108,free child places,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1109,free cocktails,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1110,free coffeetea stations,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1111,free drinks,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1112,free drinks,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+1113,free icecream,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+1114,free kids,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+1115,free milk,good,2011,MSC Magnifica,Msc,0.0,1.0,1.0
+1116,free port shuttle,good,2013,MSC Orchestra,Msc,0.0,1.0,1.0
+1117,free service,good,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+1118,free softserve ice,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1119,free tea,bad,2012,MSC Armonia,Msc,0.0,1.0,1.0
+1120,free upgrade,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1121,free water,bad,2012,MSC Musica,Msc,1.0,0.0,1.0
+1122,french toast,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1123,frequent ship maps,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+1124,fresh air,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1125,fresh bread,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+1126,fresh bread rolls,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1127,fresh fruit,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+1128,fresh garlic bread,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1129,fresh interesting appealing,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1130,freshly made range,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1131,fried calamari,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+1132,friendly cabin steward,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1133,friendly italian cruise,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1134,friendly manner,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+1135,friendly member,bad,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1136,friendly people,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1137,friendly service,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1138,friendly staff,good,2012,MSC Splendida,Msc,0.0,2.0,2.0
+1139,friendly staff,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1140,friendly staff,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+1141,friendly staff member,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1142,friendly staff members,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1143,friendly steward,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+1144,friendly waiters,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+1145,friendly welcome,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+1146,frozen diner,bad,2010,MSC Orchestra,Msc,1.0,0.0,1.0
+1147,fruit machines,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1148,frustrated passengers,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+1149,fully equiped gym,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1150,fully equipped fitness,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+1151,fully stocked minibar,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1152,fun dancing,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1153,fun experience,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1154,fun games,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+1155,fun group,bad,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1156,fun things,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+1157,fun way,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+1158,functional bathroom,good,2009,MSC Opera,Msc,0.0,1.0,1.0
+1159,future cruise,good,2014,MSC Lirica,Msc,0.0,1.0,1.0
+1160,future travel,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1161,gala dinner nights,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+1162,gala night,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1163,gala nights,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1164,galaxy disco restaurant,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+1165,gaming tables,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+1166,garden pool bar,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+1167,garlic pasta,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1168,gdesserts,bad,2013,MSC Orchestra,Msc,1.0,0.0,1.0
+1169,gelato poolside,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1170,gelato yummy,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1171,general attitude,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+1172,general cruise ship,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+1173,general enjoyment,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+1174,generally good weather,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1175,generic format,bad,2013,MSC Armonia,Msc,1.0,0.0,1.0
+1176,generous balcony,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+1177,genoa italy,good,2010,MSC Fantasia,Msc,0.0,1.0,1.0
+1178,genuinely fabulous ship,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+1179,ghastly marble building,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+1180,glass bear bottles,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+1181,glass shower doors,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1182,glass shower doors,good,2014,MSC Divina,Msc,0.0,2.0,2.0
+1183,glitzy ship,bad,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1184,glum look,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+1185,gluten free guests,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+1186,gold swarovski crystals,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1187,golden jazz bar,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1188,good acts,good,2012,MSC Splendida,Msc,1.0,0.0,1.0
+1189,good alternative,bad,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1190,good appetite,bad,2008,MSC Musica,Msc,0.0,1.0,1.0
+1191,good area,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+1192,good barsloungeseach,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+1193,good book,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+1194,good buffet restaurant,good,2012,MSC Sinfonia,Msc,0.0,1.0,1.0
+1195,good choices,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1196,good coffee,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1197,good company,bad,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1198,good cruise line,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+1199,good cruise ship,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+1200,good dinner table,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+1201,good drink,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1202,good english,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+1203,good enough food,good,2009,MSC Splendida,Msc,0.0,1.0,1.0
+1204,good food,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1205,good food,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1206,good food,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1207,good food,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+1208,good friends,good,2011,MSC Fantasia,Msc,0.0,1.0,1.0
+1209,good friends,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1210,good friends,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1211,good fun,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+1212,good fun,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+1213,good hot shower,bad,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1214,good italian wines,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1215,good job,bad,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1216,good job,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1217,good light,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1218,good luck,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+1219,good luck,bad,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1220,good magforte segafreddo,good,2013,MSC Orchestra,Msc,0.0,1.0,1.0
+1221,good meat choice,bad,2012,MSC Splendida,Msc,1.0,0.0,1.0
+1222,good mix,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1223,good mood,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1224,good news,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1225,good nightno sleep,bad,2013,MSC Poesia,Msc,1.0,0.0,1.0
+1226,good ones,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1227,good pasta,bad,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1228,good pizza,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+1229,good pizzeria,good,2011,MSC Divina,Msc,0.0,1.0,1.0
+1230,good place,bad,2013,MSC Poesia,Msc,1.0,0.0,1.0
+1231,good price,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+1232,good price holiday,bad,2010,MSC Musica,Msc,0.0,1.0,1.0
+1233,good quality,bad,2011,MSC Orchestra,Msc,0.0,1.0,1.0
+1234,good quality,good,2012,MSC Splendida,Msc,1.0,0.0,1.0
+1235,good quality entertainment,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+1236,good quality food,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+1237,good quality servewd,good,2011,MSC Orchestra,Msc,0.0,1.0,1.0
+1238,good range,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1239,good salad,good,2014,MSC Lirica,Msc,0.0,1.0,1.0
+1240,good seafood meal,good,2011,MSC Sinfonia,Msc,0.0,1.0,1.0
+1241,good segue,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1242,good selection,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+1243,good selection,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+1244,good selection,good,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+1245,good sense,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1246,good service,bad,2012,MSC Musica,Msc,0.0,1.0,1.0
+1247,good service,good,2010,MSC Sinfonia,Msc,0.0,1.0,1.0
+1248,good service,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1249,good service,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+1250,good shower space,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+1251,good shows,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+1252,good size,bad,2013,MSC Splendida,Msc,0.0,1.0,1.0
+1253,good size,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1254,good sized bathroom,good,2010,MSC Fantasia,Msc,0.0,1.0,1.0
+1255,good sized bathroom,good,2014,MSC Lirica,Msc,0.0,1.0,1.0
+1256,good sized room,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1257,good sized wardrobe,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+1258,good sized window,bad,2012,MSC Armonia,Msc,0.0,1.0,1.0
+1259,good standard,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+1260,good standard,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+1261,good start,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+1262,good steak,bad,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1263,good supply,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1264,good swimmers,good,2008,MSC Poesia,Msc,1.0,0.0,1.0
+1265,good taster,bad,2014,MSC Sinfonia,Msc,0.0,1.0,1.0
+1266,good thing,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1267,good things,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+1268,good time,bad,2009,MSC Poesia,Msc,0.0,1.0,1.0
+1269,good time,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1270,good time,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1271,good time,good,2011,MSC Magnifica,Msc,0.0,1.0,1.0
+1272,good times,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+1273,good tip,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+1274,good value,bad,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+1275,good value,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1276,good value,good,2011,MSC Orchestra,Msc,0.0,1.0,1.0
+1277,good value,good,2013,MSC Armonia,Msc,1.0,0.0,1.0
+1278,good value,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+1279,good varied food,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1280,good variety,bad,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1281,good variety,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+1282,good variety,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+1283,good variety,good,2011,MSC Divina,Msc,0.0,1.0,1.0
+1284,good variety,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1285,good variety,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+1286,good variety,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1287,good variety,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+1288,good way,bad,2008,MSC Musica,Msc,0.0,1.0,1.0
+1289,good words,good,2013,MSC Divina,Msc,1.0,0.0,1.0
+1290,good work,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1291,goodi enjoyed fare,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+1292,goofy games,bad,2009,MSC Lirica,Msc,0.0,1.0,1.0
+1293,gopro video camera,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1294,gorgeous atrium,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+1295,gorgeous beaches,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1296,gorgeous dining room,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1297,gorgeous lighted wall,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1298,gorgeous s american,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1299,gorgeous ships,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1300,gorgeous vessel,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+1301,gourmet italian cuisine,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1302,gourmet italian delicacies,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1303,gracious smiles,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1304,grand bazaar,good,2008,MSC Poesia,Msc,0.0,1.0,1.0
+1305,grand buffet,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1306,grand new ship,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1307,grapefruit juice,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+1308,great acoustics,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1309,great ambassador,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1310,great area,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1311,great arias,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1312,great artists,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1313,great atmosphere,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+1314,great attention,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1315,great attitude,bad,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1316,great balconies,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+1317,great balcony,good,2009,MSC Opera,Msc,0.0,1.0,1.0
+1318,great balcony cabin,bad,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1319,great balcony room,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1320,great beach,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1321,great bonus,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+1322,great buffet,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1323,great cabin steward,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+1324,great cabin steward,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+1325,great cabins,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+1326,great cabins,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1327,great care,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1328,great caribbean ports,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1329,great choice,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1330,great choreography,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1331,great cigar lounge,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+1332,great cocktails,good,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+1333,great control,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+1334,great cosmopolitan city,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1335,great cruise,bad,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1336,great cruise,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+1337,great cruise,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1338,great cruise,good,2010,MSC Poesia,Msc,0.0,2.0,2.0
+1339,great cruise,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+1340,great cruise,good,2014,MSC Divina,Msc,0.0,2.0,2.0
+1341,great cruise,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1342,great cruiseon,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1343,great culinary experience,bad,2008,MSC Poesia,Msc,0.0,1.0,1.0
+1344,great dancers,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1345,great deal,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1346,great deals,good,2010,MSC Sinfonia,Msc,0.0,1.0,1.0
+1347,great double door,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1348,great drinks,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+1349,great efficiency,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1350,great excursions,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1351,great experience,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1352,great experience,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+1353,great experience,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1354,great experience,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1355,great firsttime cruise,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+1356,great folks,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1357,great food,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+1358,great friends,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1359,great fun,bad,2014,MSC Opera,Msc,0.0,1.0,1.0
+1360,great fun,good,2009,MSC Poesia,Msc,0.0,1.0,1.0
+1361,great fun,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1362,great idea,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1363,great idea,good,2014,MSC Lirica,Msc,0.0,1.0,1.0
+1364,great italian cheese,good,2011,MSC Divina,Msc,0.0,1.0,1.0
+1365,great itinerary,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+1366,great job,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+1367,great job,good,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+1368,great job,good,2009,MSC Lirica,Msc,0.0,2.0,2.0
+1369,great job,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1370,great job,good,2011,MSC Musica,Msc,0.0,1.0,1.0
+1371,great job,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1372,great job divina,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1373,great job msc,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1374,great job thruout,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1375,great live music,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1376,great loads,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+1377,great location,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1378,great location,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1379,great lounge,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1380,great magicians,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+1381,great master,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1382,great midnight buffet,good,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+1383,great nighton,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+1384,great ocean views,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1385,great opportunities,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1386,great outdoor areas,good,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+1387,great people,bad,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1388,great people,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1389,great plenty,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1390,great plumbing,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+1391,great price,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+1392,great price,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+1393,great price,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1394,great relaxing time,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1395,great resource,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1396,great restaurant,bad,2012,MSC Musica,Msc,0.0,1.0,1.0
+1397,great room,good,2009,MSC Splendida,Msc,0.0,1.0,1.0
+1398,great selection,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1399,great selection,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1400,great service,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1401,great service,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1402,great shape,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1403,great ship,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1404,great ship,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1405,great shower room,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1406,great sight lines,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+1407,great sight lines,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1408,great singers,good,2014,MSC Divina,Msc,0.0,2.0,2.0
+1409,great sound,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1410,great sound,good,2014,MSC Musica,Msc,0.0,1.0,1.0
+1411,great staff,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1412,great staff,good,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+1413,great start,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+1414,great stirrup cay,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1415,great stories,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1416,great surprises,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1417,great taste,good,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+1418,great time,bad,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1419,great time,bad,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1420,great time,bad,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1421,great time,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1422,great time,good,2011,MSC Magnifica,Msc,0.0,1.0,1.0
+1423,great time,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1424,great time,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+1425,great time,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+1426,great time,good,2014,MSC Divina,Msc,0.0,3.0,3.0
+1427,great time,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1428,great time,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1429,great trip,good,2012,MSC Armonia,Msc,0.0,2.0,2.0
+1430,great trip,good,2013,MSC Poesia,Msc,0.0,2.0,2.0
+1431,great vacation,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1432,great value,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+1433,great value,good,2010,MSC Poesia,Msc,0.0,2.0,2.0
+1434,great value,good,2013,MSC Magnifica,Msc,0.0,1.0,1.0
+1435,great value cruise,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+1436,great variety,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1437,great variety,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1438,great variety,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1439,great variety,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1440,great venues,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+1441,great view,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1442,great view,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1443,great view,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1444,great views,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1445,great vocal performance,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1446,great voices,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+1447,great way,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1448,great way,good,2012,MSC Armonia,Msc,1.0,0.0,1.0
+1449,great way,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1450,great way,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1451,great way,good,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+1452,great wonders,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+1453,greater choice,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1454,greatest experiences,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+1455,green apple juice,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+1456,greet crew,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+1457,grill area,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+1458,grilled chicken,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1459,group check,good,2009,MSC Lirica,Msc,1.0,0.0,1.0
+1460,guest services,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+1461,guest weve,bad,2008,MSC Musica,Msc,1.0,0.0,1.0
+1462,guests ballroom skills,bad,2014,MSC Opera,Msc,0.0,1.0,1.0
+1463,half price,good,2011,MSC Musica,Msc,1.0,0.0,1.0
+1464,hand gel,bad,2013,MSC Opera,Msc,0.0,1.0,1.0
+1465,hand gel stations,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+1466,hand luggage,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+1467,hand luggage,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+1468,hand sanitizer,bad,2013,MSC Poesia,Msc,1.0,0.0,1.0
+1469,hand sanitizer dispenser,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1470,hand sanitizers,bad,2013,MSC Poesia,Msc,1.0,0.0,1.0
+1471,hand smoke,good,2009,MSC Lirica,Msc,1.0,0.0,1.0
+1472,hand wash,good,2013,MSC Opera,Msc,1.0,0.0,1.0
+1473,handcompleted luggage tags,bad,2010,MSC Opera,Msc,1.0,0.0,1.0
+1474,happy crew,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+1475,happy crew members,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+1476,happy days cocktails,good,2012,MSC Opera,Msc,0.0,1.0,1.0
+1477,happy dinner option,good,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+1478,happy sailing,good,2012,MSC Fantasia,Msc,0.0,2.0,2.0
+1479,happy sailing,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1480,hard hamburgers,bad,2008,MSC Lirica,Msc,1.0,0.0,1.0
+1481,hard sell mentality,good,2013,MSC Divina,Msc,1.0,0.0,1.0
+1482,hard working staff,good,2014,MSC Armonia,Msc,1.0,0.0,1.0
+1483,hardest working people,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+1484,hardworking steward,good,2012,MSC Magnifica,Msc,0.0,1.0,1.0
+1485,havoc checkingin,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+1486,head office,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1487,hearing irish organizer,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1488,helpful dinner waiter,bad,2012,MSC Poesia,Msc,0.0,1.0,1.0
+1489,helpful staffs,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1490,helpful tourist information,good,2011,MSC Fantasia,Msc,0.0,1.0,1.0
+1491,hidden charges,bad,2011,MSC Fantasia,Msc,1.0,0.0,1.0
+1492,high end decor,bad,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1493,high expectations,good,2014,MSC Divina,Msc,0.0,2.0,2.0
+1494,high lights,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+1495,high marks,bad,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1496,high quality,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+1497,high quality customer,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1498,high quality decor,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+1499,high quality food,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1500,high quality product,good,2013,MSC Orchestra,Msc,0.0,1.0,1.0
+1501,high school cafeteria,bad,2013,MSC Splendida,Msc,0.0,1.0,1.0
+1502,high standard,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1503,high standard,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1504,high steps,good,2014,MSC Orchestra,Msc,1.0,0.0,1.0
+1505,high tech,bad,2010,MSC Orchestra,Msc,0.0,1.0,1.0
+1506,higher standards,bad,2012,MSC Magnifica,Msc,0.0,1.0,1.0
+1507,highest expectations,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1508,highest praise,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+1509,highest quality food,bad,2010,MSC Splendida,Msc,0.0,1.0,1.0
+1510,highly attentive staff,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+1511,highly recommend,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1512,highly skilled singers,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1513,highranking staff member,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1514,hilarious skits,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1515,hind sight,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+1516,hip problem,bad,2013,MSC Poesia,Msc,1.0,0.0,1.0
+1517,historical tour excursion,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1518,holiday availability,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+1519,holiday inn hotel,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+1520,holiday time,good,2013,MSC Armonia,Msc,1.0,0.0,1.0
+1521,holy land,bad,2009,MSC Poesia,Msc,0.0,1.0,1.0
+1522,honest critique,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+1523,horrendous queues,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+1524,horrible cruise experience,bad,2011,MSC Splendida,Msc,1.0,0.0,1.0
+1525,horrible cruise line,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1526,horrible environment,bad,2008,MSC Musica,Msc,1.0,0.0,1.0
+1527,horrible fingermarks,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+1528,horrible horrible service,bad,2014,MSC Magnifica,Msc,1.0,0.0,1.0
+1529,horrible job,bad,2013,MSC Poesia,Msc,1.0,0.0,1.0
+1530,horrible portion sizes,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+1531,horrible waste,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1532,horrific mess,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1533,horrificly miserable posts,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1534,hospital food,bad,2011,MSC Opera,Msc,1.0,0.0,1.0
+1535,hot chocolate,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1536,hot dog,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+1537,hot dogs,bad,2008,MSC Lirica,Msc,1.0,0.0,1.0
+1538,hot dogs,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1539,hot food,bad,2010,MSC Sinfonia,Msc,1.0,0.0,1.0
+1540,hot food,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1541,hot stone massage,good,2013,MSC Orchestra,Msc,0.0,1.0,1.0
+1542,hot tub,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+1543,hot tub,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+1544,hot weather,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+1545,hotel restaurant,good,2014,MSC Lirica,Msc,0.0,1.0,1.0
+1546,hotel staff,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1547,hourlong taxi ride,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+1548,house wine,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+1549,housekeeping department,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+1550,housekeeping staff,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1551,huge bumps,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1552,huge depressing queue,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+1553,huge double bed,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+1554,huge letdown,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+1555,huge milestone,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1556,huge mistake,good,2011,MSC Poesia,Msc,1.0,0.0,1.0
+1557,huge range,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+1558,huge salad,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1559,huge smile,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1560,huge tarpon swimming,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1561,huge window,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1562,husband,bad,2013,MSC Orchestra,Msc,1.0,0.0,1.0
+1563,husband,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1564,hygiene standards,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+1565,ice cream,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+1566,ice cream,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1567,ice cream,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1568,ice cream,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1569,ice cream cone,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+1570,ice cream cone,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1571,ice cream shakes,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1572,ice cream shops,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+1573,ice cream treats,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1574,ice machines,good,2013,MSC Poesia,Msc,1.0,0.0,1.0
+1575,ice rinkswimming pools,bad,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+1576,iced tea,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1577,iced tea,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1578,ideal way,bad,2011,MSC Fantasia,Msc,0.0,1.0,1.0
+1579,idiot guy,bad,2008,MSC Poesia,Msc,1.0,0.0,1.0
+1580,imaginable item,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1581,immaculate bonding experience,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1582,immaculate ship,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1583,impeccable condition,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1584,impeccable our room,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1585,impolite employees,bad,2013,MSC Musica,Msc,1.0,0.0,1.0
+1586,important birthday,bad,2012,MSC Sinfonia,Msc,0.0,1.0,1.0
+1587,important business challenge,bad,2012,MSC Poesia,Msc,0.0,1.0,1.0
+1588,impossibly poor wines,good,2014,MSC Opera,Msc,1.0,0.0,1.0
+1589,impressive amsterdam,bad,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+1590,inadequate air conditioning,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+1591,incessant announcements,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+1592,incessant announcemounts,good,2013,MSC Magnifica,Msc,1.0,0.0,1.0
+1593,inclusive drink package,bad,2014,MSC Opera,Msc,0.0,1.0,1.0
+1594,inclusive drinks package,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+1595,inclusive drinks package,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+1596,inclusive drinks package,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+1597,inclusive drinks package,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+1598,inclusive option,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+1599,inclusive package,bad,2014,MSC Armonia,Msc,0.0,1.0,1.0
+1600,incompetent staff,bad,2010,MSC Musica,Msc,1.0,0.0,1.0
+1601,inconsistent food quality,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+1602,incredible desserts,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1603,incredible entertainment,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1604,incredible good price,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1605,incredible place,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+1606,individual waiter service,good,2012,MSC Magnifica,Msc,0.0,1.0,1.0
+1607,indonesian cabin steward,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1608,indonesian waiter,bad,2013,MSC Splendida,Msc,0.0,1.0,1.0
+1609,indoor pool,bad,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1610,indooroutdoor forward pool,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1611,inefficient boarding procedures,bad,2012,MSC Splendida,Msc,1.0,0.0,1.0
+1612,infinity pool,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1613,information opportunity,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1614,information packet,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1615,informative guide,bad,2010,MSC Orchestra,Msc,0.0,1.0,1.0
+1616,initial embarkation,bad,2014,MSC Orchestra,Msc,1.0,0.0,1.0
+1617,initial shock,bad,2012,MSC Splendida,Msc,1.0,0.0,1.0
+1618,initiate feedback procedures,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+1619,innovative design,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+1620,insufficient english speakers,bad,2010,MSC Lirica,Msc,1.0,0.0,1.0
+1621,insufficient room,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+1622,insurmountable odds,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+1623,inter trainment,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1624,interesting conversations,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1625,interesting fish dishes,good,2014,MSC Armonia,Msc,0.0,1.0,1.0
+1626,interesting mediterranean cocktails,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1627,interesting places,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1628,interesting sandwiches,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1629,interesting stories,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1630,interior cabin,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+1631,interior cabin experience,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1632,interior design,good,2009,MSC Splendida,Msc,0.0,1.0,1.0
+1633,interminable disembarkment,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+1634,internet service,bad,2008,MSC Sinfonia,Msc,1.0,0.0,1.0
+1635,intimate dining rooms,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+1636,invaluable service,good,2015,MSC Splendida,Msc,0.0,1.0,1.0
+1637,invisibility,bad,2011,MSC Opera,Msc,1.0,0.0,1.0
+1638,invisible cabin attendant,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1639,ipad sims,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1640,irish cause,bad,2011,MSC Fantasia,Msc,1.0,0.0,1.0
+1641,irish entertainment,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+1642,irish entertainment,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1643,ironshore bock beers,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1644,issues people,good,2012,MSC Divina,Msc,1.0,0.0,1.0
+1645,italian ambience,good,2014,MSC Lirica,Msc,0.0,1.0,1.0
+1646,italian based shows,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1647,italian cruise company,bad,2014,MSC Opera,Msc,0.0,1.0,1.0
+1648,italian dishes,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+1649,italian dishes,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1650,italian flair,good,2009,MSC Splendida,Msc,0.0,1.0,1.0
+1651,italian flavor,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1652,italian flavour,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1653,italian folk music,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+1654,italian inspired dishes,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+1655,italian love songs,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1656,italian management staff,good,2013,MSC Splendida,Msc,1.0,0.0,1.0
+1657,italian modern feel,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1658,italian passengers,bad,2008,MSC Musica,Msc,0.0,1.0,1.0
+1659,italian special restaurant,bad,2008,MSC Musica,Msc,2.0,0.0,2.0
+1660,italian staff,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1661,italian style,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+1662,italian style menus,good,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+1663,italian water vistas,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+1664,italian water vistas,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1665,jackson tribute fantastic,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1666,katakolon trip,bad,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1667,kiddie pool,bad,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+1668,kiddie pools,good,2008,MSC Poesia,Msc,1.0,0.0,1.0
+1669,kids area,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1670,kids club,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+1671,kids club,good,2008,MSC Poesia,Msc,1.0,0.0,1.0
+1672,kids club,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1673,kids club disappointment,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+1674,kids program,bad,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1675,kidsno english pub,bad,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+1676,kind crew members,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+1677,kitchen manager,good,2013,MSC Orchestra,Msc,1.0,0.0,1.0
+1678,knowledgeable guide,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1679,la cabana,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1680,la fontane,bad,2009,MSC Poesia,Msc,1.0,0.0,1.0
+1681,la muse,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+1682,lack,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+1683,ladies playing violin,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1684,land based vacations,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+1685,language barrier,bad,2011,MSC Fantasia,Msc,1.0,0.0,1.0
+1686,language barrier,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1687,language issues,bad,2013,MSC Armonia,Msc,1.0,0.0,1.0
+1688,larabesque dining room,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1689,large cruise lines,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+1690,large elegant ship,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1691,large glass,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1692,large group,good,2012,MSC Poesia,Msc,1.0,0.0,1.0
+1693,large hard plastic,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+1694,large mirrors,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+1695,large outdoor screen,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1696,large panoramic window,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+1697,large pillings,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+1698,large prawn,bad,2011,MSC Musica,Msc,1.0,0.0,1.0
+1699,large range,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1700,large serving size,good,2009,MSC Poesia,Msc,0.0,1.0,1.0
+1701,large ship,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+1702,large ships,good,2010,MSC Fantasia,Msc,0.0,1.0,1.0
+1703,large variety,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1704,large walkin closet,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1705,las vegas,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+1706,late afternoon,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1707,late arrival,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+1708,late evening sunsets,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1709,late night pizza,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1710,late risers,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+1711,late seating guests,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1712,laundry special package,bad,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1713,leaky showers,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+1714,leisure palaces,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+1715,leisurely dining experience,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1716,leisurely dinner,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1717,leisurely relaxed pace,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+1718,length windows,bad,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1719,lengthy ques,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+1720,les marines restaurant,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+1721,life boat drill,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+1722,light lunch,good,2012,MSC Sinfonia,Msc,0.0,1.0,1.0
+1723,light snacks,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+1724,light steak appetizer,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1725,limited offering,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1726,limited selection,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+1727,limp iceberg lettuce,bad,2010,MSC Magnifica,Msc,1.0,0.0,1.0
+1728,lina mookerjee,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1729,linen lovely crisp,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1730,lirica food,good,2009,MSC Lirica,Msc,1.0,0.0,1.0
+1731,little animals,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1732,little back streets,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+1733,little background,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+1734,little bit,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+1735,little boring,good,2012,MSC Splendida,Msc,1.0,0.0,1.0
+1736,little break,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+1737,little choice period,bad,2009,MSC Poesia,Msc,1.0,0.0,1.0
+1738,little damper,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1739,little english teleno,bad,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+1740,little hit,good,2014,MSC Poesia,Msc,1.0,0.0,1.0
+1741,little interaction,bad,2013,MSC Armonia,Msc,1.0,0.0,1.0
+1742,little meat,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+1743,little organization,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+1744,little plastic cup,bad,2008,MSC Musica,Msc,1.0,0.0,1.0
+1745,little real variety,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+1746,little rude,good,2012,MSC Splendida,Msc,1.0,0.0,1.0
+1747,little sales pressure,good,2013,MSC Divina,Msc,1.0,0.0,1.0
+1748,little skimpy,good,2013,MSC Poesia,Msc,1.0,0.0,1.0
+1749,little things,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+1750,little tomato sauce,good,2011,MSC Poesia,Msc,1.0,0.0,1.0
+1751,live music,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+1752,live music,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+1753,live music venues,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1754,lively dance routines,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1755,lively evening entertainment,good,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+1756,lively music poolside,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1757,lively ship,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+1758,local barrestaurant,bad,2010,MSC Orchestra,Msc,1.0,0.0,1.0
+1759,local cuisine,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+1760,local entertainers,bad,2012,MSC Opera,Msc,1.0,0.0,1.0
+1761,local gifts,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1762,local information,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1763,local italian flavors,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+1764,local pub,bad,2010,MSC Fantasia,Msc,1.0,0.0,1.0
+1765,local taxi,bad,2010,MSC Orchestra,Msc,0.0,1.0,1.0
+1766,local tour guide,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1767,local wine shop,good,2008,MSC Sinfonia,Msc,0.0,1.0,1.0
+1768,local winery,bad,2012,MSC Musica,Msc,0.0,1.0,1.0
+1769,location pleasant,bad,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1770,logical layout,bad,2014,MSC Armonia,Msc,0.0,1.0,1.0
+1771,london heathrow,bad,2011,MSC Fantasia,Msc,0.0,1.0,1.0
+1772,long journey,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1773,long line,bad,2008,MSC Musica,Msc,1.0,0.0,1.0
+1774,long overseas flight,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+1775,long time,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1776,long way,good,2011,MSC Orchestra,Msc,0.0,1.0,1.0
+1777,longer queues,good,2013,MSC Divina,Msc,1.0,0.0,1.0
+1778,longsleeved wetsuit,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+1779,loud italian families,good,2011,MSC Splendida,Msc,1.0,0.0,1.0
+1780,loudest bars,good,2014,MSC Orchestra,Msc,1.0,0.0,1.0
+1781,lounge chairs,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1782,lovely area,good,2010,MSC Sinfonia,Msc,0.0,1.0,1.0
+1783,lovely art deco,bad,2008,MSC Opera,Msc,0.0,1.0,1.0
+1784,lovely australian couple,bad,2012,MSC Musica,Msc,0.0,1.0,1.0
+1785,lovely australian couple,good,2011,MSC Magnifica,Msc,0.0,1.0,1.0
+1786,lovely balcony,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+1787,lovely big towels,good,2011,MSC Musica,Msc,0.0,1.0,1.0
+1788,lovely city,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+1789,lovely clean,good,2012,MSC Opera,Msc,0.0,1.0,1.0
+1790,lovely clean ship,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+1791,lovely continental buffet,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1792,lovely corfu town,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+1793,lovely cruise,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+1794,lovely decorated room,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1795,lovely desserts,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1796,lovely dinner table,bad,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1797,lovely family,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1798,lovely fellow passengers,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1799,lovely holiday,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1800,lovely live music,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1801,lovely memories,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1802,lovely new linens,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1803,lovely original design,good,2009,MSC Splendida,Msc,0.0,1.0,1.0
+1804,lovely outdoor areas,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+1805,lovely place,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1806,lovely place,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1807,lovely prepared food,bad,2014,MSC Opera,Msc,0.0,1.0,1.0
+1808,lovely promenade,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+1809,lovely reassuring advice,bad,2014,MSC Opera,Msc,0.0,1.0,1.0
+1810,lovely relaxed surroundings,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+1811,lovely relaxing area,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+1812,lovely setting,bad,2011,MSC Orchestra,Msc,0.0,1.0,1.0
+1813,lovely ship,bad,2008,MSC Musica,Msc,0.0,1.0,1.0
+1814,lovely ship,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+1815,lovely ship,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1816,lovely ship,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1817,lovely squares,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+1818,lovely sunbathing area,good,2011,MSC Fantasia,Msc,0.0,1.0,1.0
+1819,lovely supriseour porter,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1820,lovely time,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1821,lovely visual condition,bad,2012,MSC Magnifica,Msc,0.0,1.0,1.0
+1822,lovely walkin closet,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1823,lovely wallpaper art,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+1824,lovely wallpaper art,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1825,low budget,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+1826,low ceilings,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+1827,low expectations,good,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+1828,low expectations,good,2014,MSC Magnifica,Msc,1.0,0.0,1.0
+1829,low quality ingredients,bad,2012,MSC Musica,Msc,1.0,0.0,1.0
+1830,lucky persons,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+1831,luggage issue,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1832,luis roberto matute,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+1833,lumpy mess,bad,2014,MSC Magnifica,Msc,1.0,0.0,1.0
+1834,lumpy pillows,good,2011,MSC Poesia,Msc,1.0,0.0,1.0
+1835,lunch buffet,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1836,lunch buffet,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1837,lunch buffets,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1838,lunch buffets,good,2011,MSC Musica,Msc,0.0,1.0,1.0
+1839,lunch time restaurant,good,2012,MSC Magnifica,Msc,0.0,1.0,1.0
+1840,luxurious living,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1841,luxurious space,bad,2009,MSC Musica,Msc,0.0,1.0,1.0
+1842,luxurious yacht club,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1843,luxury design,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+1844,luxury holidays,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+1845,luxury quality,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+1846,luxury suites,good,2011,MSC Magnifica,Msc,0.0,1.0,1.0
+1847,mad rush,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+1848,magic tricks,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1849,magnificent hallways,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1850,magnificent midnight buffets,good,2011,MSC Orchestra,Msc,0.0,1.0,1.0
+1851,main bar menu,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+1852,main buffet restaurant,good,2013,MSC Divina,Msc,1.0,0.0,1.0
+1853,main course rigatoni,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1854,main criticism,good,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+1855,main dining areas,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+1856,main dining restaurants,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+1857,main dining room,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1858,main dining room,bad,2014,MSC Sinfonia,Msc,0.0,1.0,1.0
+1859,main dining room,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+1860,main dining room,good,2012,MSC Sinfonia,Msc,0.0,1.0,1.0
+1861,main dining room,good,2014,MSC Divina,Msc,1.0,1.0,2.0
+1862,main dining rooms,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1863,main distraction,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+1864,main foyer,good,2011,MSC Fantasia,Msc,0.0,1.0,1.0
+1865,main gripe,good,2012,MSC Opera,Msc,1.0,0.0,1.0
+1866,main gripes,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+1867,main lobby,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1868,main lobby,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1869,main lobby area,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+1870,main open area,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+1871,main pool,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+1872,main reception area,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1873,main restaurant,good,2014,MSC Splendida,Msc,0.0,1.0,1.0
+1874,main resturant,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+1875,main serving areas,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+1876,main shopping drag,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1877,main stage shows,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1878,main theatre,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1879,mainline business,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1880,maintainance men,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1881,major cruise lines,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1882,major disappointment,bad,2010,MSC Orchestra,Msc,1.0,0.0,1.0
+1883,makes international travel,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1884,male opera singer,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+1885,managers information,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1886,marco polo airport,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+1887,marinara sauce connoisseur,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1888,marvelous midnight buffet,bad,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+1889,mass market lines,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1890,match tables,good,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+1891,matress pad,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+1892,mattress pad,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+1893,mature couple,good,2011,MSC Fantasia,Msc,0.0,1.0,1.0
+1894,meal time dinners,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+1895,meal times,bad,2009,MSC Poesia,Msc,0.0,1.0,1.0
+1896,mean entitled travelers,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+1897,medical centre,bad,2010,MSC Magnifica,Msc,1.0,0.0,1.0
+1898,medical staff,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+1899,mediocre spaghetti bolognase,bad,2011,MSC Fantasia,Msc,1.0,0.0,1.0
+1900,mediterranean twist,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1901,memorable cruise,good,2011,MSC Orchestra,Msc,0.0,1.0,1.0
+1902,memorable cruise,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1903,memorable experience,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+1904,menacing way,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+1905,menu,bad,2011,MSC Musica,Msc,1.0,0.0,1.0
+1906,menu minimum,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+1907,menu offerings,good,2015,MSC Divina,Msc,1.0,0.0,1.0
+1908,mess hall,good,2015,MSC Divina,Msc,1.0,0.0,1.0
+1909,message boards,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+1910,messy business,bad,2009,MSC Opera,Msc,1.0,0.0,1.0
+1911,metal bar,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+1912,metal fork whilst,bad,2013,MSC Orchestra,Msc,1.0,0.0,1.0
+1913,michael jackson,bad,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+1914,michael jackson,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+1915,michael jackson,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1916,michael jackson impersonator,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1917,michael jackson tribute,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1918,michael jackson tribute,bad,2015,MSC Divina,Msc,0.0,1.0,1.0
+1919,michael jackson tribute,good,2010,MSC Poesia,Msc,0.0,2.0,2.0
+1920,michael jackson tribute,good,2011,MSC Divina,Msc,0.0,1.0,1.0
+1921,michael jackson tribute,good,2011,MSC Fantasia,Msc,0.0,1.0,1.0
+1922,michael jackson tribute,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1923,michael jackson tribute,good,2014,MSC Divina,Msc,0.0,3.0,3.0
+1924,michael jackson tribute,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1925,mid ships pool,good,2013,MSC Orchestra,Msc,0.0,1.0,1.0
+1926,middle aged man,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+1927,midnight buffet,bad,2011,MSC Musica,Msc,0.0,1.0,1.0
+1928,midnight buffets,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+1929,midnight buffets,good,2012,MSC Opera,Msc,0.0,1.0,1.0
+1930,midnight snacks,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+1931,midnight snacks,good,2009,MSC Poesia,Msc,0.0,1.0,1.0
+1932,min bali massage,good,2010,MSC Sinfonia,Msc,0.0,1.0,1.0
+1933,min bali massage,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1934,mindless babble,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+1935,mini bar,bad,2012,MSC Musica,Msc,1.0,0.0,1.0
+1936,mini cruises,bad,2014,MSC Opera,Msc,0.0,1.0,1.0
+1937,mini fridge,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1938,mini putt,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+1939,mini store,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+1940,minor annoyances,good,2011,MSC Splendida,Msc,1.0,0.0,1.0
+1941,minor complaint,good,2009,MSC Lirica,Msc,1.0,0.0,1.0
+1942,minor complaints,good,2015,MSC Divina,Msc,1.0,0.0,1.0
+1943,minor delay,good,2014,MSC Orchestra,Msc,1.0,0.0,1.0
+1944,mins brillant,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+1945,miserable experience,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+1946,miserable people,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+1947,miss fish,bad,2013,MSC Armonia,Msc,1.0,0.0,1.0
+1948,missing paper,bad,2012,MSC Fantasia,Msc,1.0,0.0,1.0
+1949,mixed european flavour,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+1950,mixed reviews,good,2014,MSC Magnifica,Msc,1.0,0.0,1.0
+1951,mixed reviews,good,2014,MSC Opera,Msc,1.0,0.0,1.0
+1952,mobility impairments,good,2014,MSC Orchestra,Msc,1.0,0.0,1.0
+1953,modest service,bad,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+1954,money service,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+1955,money sucking cruise,bad,2013,MSC Fantasia,Msc,1.0,0.0,1.0
+1956,money trouble,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+1957,moody blues cruise,good,2013,MSC Poesia,Msc,1.0,0.0,1.0
+1958,morning flights,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+1959,motown songs,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1960,msc,bad,2012,MSC Magnifica,Msc,0.0,1.0,1.0
+1961,msc,bad,2013,MSC Orchestra,Msc,1.0,0.0,1.0
+1962,msc,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+1963,msc armonia,good,2014,MSC Armonia,Msc,0.0,1.0,1.0
+1964,msc aurea spa,bad,2012,MSC Fantasia,Msc,1.0,0.0,1.0
+1965,msc club member,good,2011,MSC Musica,Msc,0.0,1.0,1.0
+1966,msc cruise,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+1967,msc cruise,good,2009,MSC Splendida,Msc,0.0,1.0,1.0
+1968,msc cruise,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1969,msc cruise,good,2010,MSC Sinfonia,Msc,0.0,1.0,1.0
+1970,msc cruise,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+1971,msc cruise,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+1972,msc cruise,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1973,msc cruise,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+1974,msc cruise experience,bad,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+1975,msc cruise experience,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+1976,msc cruise line,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+1977,msc cruise line,good,2011,MSC Poesia,Msc,0.0,2.0,2.0
+1978,msc cruises,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+1979,msc cruises,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+1980,msc cruises,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+1981,msc cruises,good,2013,MSC Magnifica,Msc,1.0,0.0,1.0
+1982,msc cruises,good,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+1983,msc customer care,bad,2013,MSC Splendida,Msc,0.0,1.0,1.0
+1984,msc deck plans,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+1985,msc divina,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+1986,msc divina,bad,2014,MSC Divina,Msc,0.0,2.0,2.0
+1987,msc divina,bad,2015,MSC Divina,Msc,1.0,0.0,1.0
+1988,msc divina,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1989,msc divina,good,2014,MSC Divina,Msc,1.0,4.0,5.0
+1990,msc divina,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+1991,msc divina caribbean,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1992,msc divina interiors,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+1993,msc divina yc,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1994,msc excursion,bad,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+1995,msc experience,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+1996,msc fantasia,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+1997,msc fantasia,good,2010,MSC Fantasia,Msc,0.0,1.0,1.0
+1998,msc fantasia,good,2011,MSC Fantasia,Msc,0.0,1.0,1.0
+1999,msc fantasia,good,2012,MSC Fantasia,Msc,0.0,2.0,2.0
+2000,msc fantasia,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+2001,msc fantasia,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+2002,msc fantasia,good,2014,MSC Fantasia,Msc,0.0,2.0,2.0
+2003,msc line,good,2011,MSC Fantasia,Msc,1.0,0.0,1.0
+2004,msc lirica,bad,2011,MSC Lirica,Msc,1.0,0.0,1.0
+2005,msc lirica,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+2006,msc lirica,good,2014,MSC Lirica,Msc,1.0,1.0,2.0
+2007,msc lirica dock,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+2008,msc magnifica,bad,2014,MSC Magnifica,Msc,1.0,0.0,1.0
+2009,msc musica,bad,2012,MSC Musica,Msc,1.0,0.0,1.0
+2010,msc musica,bad,2014,MSC Musica,Msc,0.0,1.0,1.0
+2011,msc musica,good,2011,MSC Musica,Msc,0.0,1.0,1.0
+2012,msc office,good,2013,MSC Armonia,Msc,1.0,0.0,1.0
+2013,msc opera,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+2014,msc opera,good,2009,MSC Opera,Msc,0.0,1.0,1.0
+2015,msc opera,good,2011,MSC Opera,Msc,0.0,1.0,1.0
+2016,msc opera,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+2017,msc opera,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+2018,msc orchestra,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2019,msc orchestra,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+2020,msc poesia,bad,2009,MSC Poesia,Msc,0.0,1.0,1.0
+2021,msc poesia,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2022,msc poesia,bad,2011,MSC Poesia,Msc,0.0,1.0,1.0
+2023,msc poesia,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+2024,msc poesia,bad,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2025,msc poesia,good,2008,MSC Poesia,Msc,0.0,1.0,1.0
+2026,msc poesia,good,2010,MSC Poesia,Msc,0.0,2.0,2.0
+2027,msc poesia,good,2011,MSC Poesia,Msc,0.0,2.0,2.0
+2028,msc poesia,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2029,msc preziosa,bad,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+2030,msc production shows,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2031,msc ship,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2032,msc ships,bad,2015,MSC Divina,Msc,0.0,1.0,1.0
+2033,msc shore excursion,bad,2013,MSC Opera,Msc,1.0,0.0,1.0
+2034,msc sinfonia,good,2012,MSC Sinfonia,Msc,0.0,3.0,3.0
+2035,msc splendida,good,2012,MSC Splendida,Msc,1.0,2.0,3.0
+2036,msc staff members,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+2037,msc stick,bad,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+2038,msc website,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+2039,multi course lunches,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+2040,multilingual audience,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2041,multiple dining rooms,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2042,multiple members,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+2043,multiple places,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2044,musical entertainment,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+2045,musical tastes,bad,2008,MSC Musica,Msc,0.0,1.0,1.0
+2046,musical tastes,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+2047,n american customers,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2048,napkin origami,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2049,nasal lead singer,bad,2009,MSC Musica,Msc,1.0,0.0,1.0
+2050,nasty bites,good,2013,MSC Magnifica,Msc,1.0,0.0,1.0
+2051,nasty curtain,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2052,nasty stuff,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2053,nearest elevator,bad,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2054,necessary information,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+2055,negative aspects,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2056,negative aspects,bad,2012,MSC Fantasia,Msc,1.0,0.0,1.0
+2057,negative comments,bad,2012,MSC Armonia,Msc,1.0,0.0,1.0
+2058,negative comments,good,2008,MSC Poesia,Msc,1.0,0.0,1.0
+2059,negative comments,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2060,negative feedback,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+2061,negative feedback,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2062,negative point,good,2013,MSC Magnifica,Msc,1.0,0.0,1.0
+2063,negative points,good,2013,MSC Armonia,Msc,1.0,0.0,1.0
+2064,negative postings,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2065,negative reviews,bad,2013,MSC Poesia,Msc,1.0,0.0,1.0
+2066,negative reviews,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2067,negative reviews,good,2011,MSC Poesia,Msc,1.0,0.0,1.0
+2068,negative reviews,good,2013,MSC Divina,Msc,2.0,0.0,2.0
+2069,negative reviews,good,2013,MSC Poesia,Msc,1.0,0.0,1.0
+2070,negative reviews,good,2014,MSC Divina,Msc,2.0,0.0,2.0
+2071,negative reviews,good,2014,MSC Musica,Msc,1.0,0.0,1.0
+2072,negative reviews,good,2014,MSC Opera,Msc,2.0,1.0,3.0
+2073,negative reviews,good,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+2074,negative reviews,good,2014,MSC Sinfonia,Msc,1.0,0.0,1.0
+2075,negative thing,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2076,new area,bad,2008,MSC Musica,Msc,0.0,1.0,1.0
+2077,new city,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2078,new cruise terminal,bad,2012,MSC Musica,Msc,1.0,0.0,1.0
+2079,new cruisers,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2080,new equipment,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2081,new hot breakfast,bad,2011,MSC Sinfonia,Msc,0.0,1.0,1.0
+2082,new jersey,good,2013,MSC Poesia,Msc,1.0,0.0,1.0
+2083,new msc divina,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2084,new people,good,2013,MSC Magnifica,Msc,0.0,1.0,1.0
+2085,new people,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2086,new ship,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+2087,new ships,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2088,new theme,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2089,new york,bad,2011,MSC Poesia,Msc,0.0,1.0,1.0
+2090,new york,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2091,new york city,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2092,new zealand,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+2093,newly minted boat,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+2094,newly refurbished msc,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+2095,news weather,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2096,nice amenities,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+2097,nice area,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+2098,nice balcony,bad,2011,MSC Magnifica,Msc,0.0,1.0,1.0
+2099,nice balcony,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+2100,nice beach,bad,2008,MSC Musica,Msc,0.0,2.0,2.0
+2101,nice big theatre,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2102,nice chairs,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+2103,nice chairs,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2104,nice crew members,bad,2008,MSC Musica,Msc,1.0,0.0,1.0
+2105,nice cruise,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2106,nice decor,bad,2012,MSC Magnifica,Msc,0.0,1.0,1.0
+2107,nice design,bad,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+2108,nice english people,bad,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+2109,nice european flavor,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+2110,nice european mix,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2111,nice filipino boy,bad,2014,MSC Magnifica,Msc,1.0,0.0,1.0
+2112,nice folks,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+2113,nice glass,bad,2011,MSC Orchestra,Msc,0.0,1.0,1.0
+2114,nice guests,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2115,nice guy,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+2116,nice guy,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+2117,nice jacuzzis,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+2118,nice light lunch,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+2119,nice lighting,bad,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2120,nice living space,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+2121,nice local wine,good,2008,MSC Sinfonia,Msc,0.0,1.0,1.0
+2122,nice merchandise,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2123,nice openneck shirts,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+2124,nice people,bad,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2125,nice people,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2126,nice place,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2127,nice places,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+2128,nice portion,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2129,nice power shower,good,2011,MSC Musica,Msc,0.0,1.0,1.0
+2130,nice private space,bad,2014,MSC Sinfonia,Msc,0.0,1.0,1.0
+2131,nice quiet lunch,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2132,nice relaxing gin,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2133,nice salad,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2134,nice seating,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+2135,nice selection,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2136,nice ship,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2137,nice ship,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2138,nice shirt,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+2139,nice shopping street,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+2140,nice shops,bad,2011,MSC Orchestra,Msc,0.0,1.0,1.0
+2141,nice size,bad,2009,MSC Opera,Msc,0.0,1.0,1.0
+2142,nice size balcony,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+2143,nice size balcony,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+2144,nice size bathroom,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+2145,nice sized balcony,bad,2012,MSC Musica,Msc,0.0,1.0,1.0
+2146,nice sized bath,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2147,nice surprise,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2148,nice time,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+2149,nice toiletries,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+2150,nice touch,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+2151,nice variety,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2152,nice views,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+2153,nice walking tour,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+2154,nice way,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2155,nice winding staircase,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2156,nice wine bar,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2157,nicely appointed maxim,bad,2012,MSC Musica,Msc,0.0,1.0,1.0
+2158,nicely furnished,bad,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2159,nicely prepared dinner,bad,2012,MSC Musica,Msc,0.0,1.0,1.0
+2160,nicely prepared pasta,good,2008,MSC Musica,Msc,0.0,1.0,1.0
+2161,nicer pool areas,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2162,nicer restaurant,bad,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2163,nicest cabin,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+2164,nicest pool,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+2165,nicest theater,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2166,night,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+2167,night cruise,bad,2012,MSC Sinfonia,Msc,0.0,2.0,2.0
+2168,night cruise,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2169,night cruise,good,2011,MSC Musica,Msc,0.0,1.0,1.0
+2170,night cruise,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+2171,night spring break,bad,2008,MSC Lirica,Msc,1.0,0.0,1.0
+2172,night time,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2173,night time pool,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+2174,nightly entertainment,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+2175,nightly entertainment,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+2176,nighttime concerts,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+2177,noise level,bad,2015,MSC Divina,Msc,1.0,0.0,1.0
+2178,noise level,good,2014,MSC Opera,Msc,1.0,0.0,1.0
+2179,non msc staff,good,2011,MSC Poesia,Msc,1.0,0.0,1.0
+2180,non smoking areas,good,2012,MSC Splendida,Msc,1.0,0.0,1.0
+2181,noneuropean travellers,bad,2011,MSC Musica,Msc,1.0,0.0,1.0
+2182,nonsense frat party,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+2183,north american market,bad,2013,MSC Musica,Msc,0.0,1.0,1.0
+2184,north american passengers,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2185,northern sea temperatures,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2186,norway itinerary,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+2187,norwegian gem,good,2009,MSC Splendida,Msc,0.0,1.0,1.0
+2188,numerous islands,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+2189,numerous shining lights,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2190,numerous shining lights,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2191,nutella ice cream,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2192,obese americans,good,2009,MSC Poesia,Msc,1.0,0.0,1.0
+2193,obvious cut backs,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2194,occasions service,good,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+2195,ocean view,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+2196,odd choice difference,bad,2012,MSC Fantasia,Msc,1.0,0.0,1.0
+2197,old city,good,2008,MSC Lirica,Msc,0.0,2.0,2.0
+2198,old city,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+2199,old daughter,bad,2014,MSC Poesia,Msc,0.0,1.0,1.0
+2200,old food,bad,2012,MSC Opera,Msc,1.0,0.0,1.0
+2201,old rockers,bad,2013,MSC Poesia,Msc,1.0,0.0,1.0
+2202,old ship,bad,2012,MSC Magnifica,Msc,0.0,1.0,1.0
+2203,old son,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2204,older msc ships,bad,2015,MSC Divina,Msc,0.0,1.0,1.0
+2205,older passengers trip,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2206,oldtown core,good,2009,MSC Opera,Msc,0.0,1.0,1.0
+2207,onboard account,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+2208,onboard entertainment,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2209,onboard entertainment,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+2210,onboard entertainment team,good,2014,MSC Sinfonia,Msc,0.0,1.0,1.0
+2211,onboard internet costs,good,2012,MSC Armonia,Msc,1.0,0.0,1.0
+2212,onboard jewelry store,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2213,oncoming passengers,bad,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+2214,ondeck pools,good,2013,MSC Orchestra,Msc,0.0,1.0,1.0
+2215,online checkin process,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2216,online tour guide,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+2217,onshore tours,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+2218,open mind,bad,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2219,open minded traveler,bad,2011,MSC Poesia,Msc,0.0,1.0,1.0
+2220,operatic arias,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2221,operatic performances,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2222,opinion msc,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2223,orange juice,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2224,order wine package,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2225,orient beach,bad,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2226,original artwork,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2227,original decorated tiles,good,2009,MSC Splendida,Msc,0.0,1.0,1.0
+2228,original msc offering,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+2229,osso bucco,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2230,our waiter,good,2010,MSC Sinfonia,Msc,0.0,1.0,1.0
+2231,outdoor cinema screen,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2232,outdoor dining area,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2233,outdoor pizza station,good,2014,MSC Armonia,Msc,0.0,1.0,1.0
+2234,outdoor screenroom,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2235,outright rude,bad,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+2236,outset our experience,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2237,outstanding acrobatic performance,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+2238,outstanding choreography,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+2239,outstanding customer service,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2240,outstanding decor,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2241,outstanding job,good,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+2242,overall cruise experience,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+2243,overall experience,good,2009,MSC Splendida,Msc,0.0,1.0,1.0
+2244,overall impression,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2245,overall impression,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+2246,overall impressions,good,2011,MSC Orchestra,Msc,0.0,1.0,1.0
+2247,overall msc opera,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+2248,overcrowded decks,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+2249,overcrowded departure hall,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+2250,overlapping nature,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2251,oversized table,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+2252,overwhelmed hapless crew,bad,2009,MSC Musica,Msc,1.0,0.0,1.0
+2253,painfully strident voice,bad,2009,MSC Musica,Msc,1.0,0.0,1.0
+2254,panoramic tour excursion,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+2255,panoramic view,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2256,pantheon theater,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2257,pantheon theater,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2258,paper work,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2259,particularly good value,bad,2012,MSC Armonia,Msc,1.0,0.0,1.0
+2260,particularly nasty bug,bad,2008,MSC Musica,Msc,1.0,0.0,1.0
+2261,party night,good,2014,MSC Sinfonia,Msc,0.0,1.0,1.0
+2262,passenger health,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+2263,past cruises,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+2264,past saturday,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+2265,pastry chefs,bad,2014,MSC Poesia,Msc,0.0,1.0,1.0
+2266,pathetic finger shadow,bad,2008,MSC Poesia,Msc,1.0,0.0,1.0
+2267,peaceful experience,bad,2012,MSC Musica,Msc,0.0,1.0,1.0
+2268,peak times,good,2013,MSC Poesia,Msc,1.0,0.0,1.0
+2269,peek times,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+2270,people,good,2009,MSC Opera,Msc,0.0,1.0,1.0
+2271,people,good,2012,MSC Splendida,Msc,1.0,0.0,1.0
+2272,perfect deck,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2273,perfect holiday,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+2274,perfect hospitality,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+2275,perfect location,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2276,perfect medium,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+2277,perfectly adequate bathroom,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+2278,perfectly prepared pasta,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2279,personal favorites,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2280,personal favourite,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2281,personal items,good,2008,MSC Musica,Msc,0.0,1.0,1.0
+2282,personal things,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2283,personal tour guide,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2284,personalised service,bad,2011,MSC Armonia,Msc,1.0,0.0,1.0
+2285,personssame menu dailyquality,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+2286,pettiness lie,good,2010,MSC Splendida,Msc,1.0,0.0,1.0
+2287,petty stuff,good,2009,MSC Lirica,Msc,1.0,0.0,1.0
+2288,phone calls,bad,2012,MSC Fantasia,Msc,1.0,0.0,1.0
+2289,photo shop,good,2014,MSC Orchestra,Msc,1.0,0.0,1.0
+2290,piano man melo,bad,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+2291,picky eaters,good,2009,MSC Lirica,Msc,1.0,0.0,1.0
+2292,pillows lumpyentertainment,bad,2013,MSC Opera,Msc,0.0,1.0,1.0
+2293,pizza buffet,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2294,pizza place,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2295,pk travel,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+2296,plain rude,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2297,plastic card,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+2298,plastic cups reminiscent,bad,2011,MSC Lirica,Msc,1.0,0.0,1.0
+2299,plastic shower enclosure,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2300,playa del carmen,good,2009,MSC Poesia,Msc,0.0,1.0,1.0
+2301,pleasant array,bad,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+2302,pleasant conversations,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2303,pleasant experience,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2304,pleasant meals,good,2013,MSC Magnifica,Msc,0.0,1.0,1.0
+2305,pleasant memories,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2306,pleasant msc staff,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+2307,pleasant surprise,bad,2013,MSC Lirica,Msc,0.0,1.0,1.0
+2308,pleasant surprise,good,2008,MSC Musica,Msc,0.0,1.0,1.0
+2309,pleasant surprise,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2310,pleasant surprise,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2311,pleasant time,good,2011,MSC Magnifica,Msc,0.0,1.0,1.0
+2312,plenty wee sandwich,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+2313,plumbing malfunction,bad,2013,MSC Armonia,Msc,1.0,0.0,1.0
+2314,po formal nights,good,2013,MSC Orchestra,Msc,0.0,1.0,1.0
+2315,po superior deluxe,good,2013,MSC Orchestra,Msc,0.0,1.0,1.0
+2316,polite friendly manners,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+2317,polite member,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+2318,pool area,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2319,pool area,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+2320,pool areas,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+2321,pool areas,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2322,pool bars,good,2013,MSC Armonia,Msc,1.0,0.0,1.0
+2323,pool deck,bad,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+2324,pool deck,good,2009,MSC Orchestra,Msc,0.0,2.0,2.0
+2325,pool deck,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+2326,pool deck,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2327,pool deck,good,2013,MSC Divina,Msc,0.0,2.0,2.0
+2328,pool deck,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+2329,pool side entertainment,bad,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+2330,pool staff,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+2331,pool towel boy,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2332,pool towels,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+2333,poor accessibility,good,2014,MSC Orchestra,Msc,1.0,0.0,1.0
+2334,poor baby turtles,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2335,poor bar service,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2336,poor cabin service,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+2337,poor choice,bad,2013,MSC Opera,Msc,1.0,0.0,1.0
+2338,poor comments,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+2339,poor communication,good,2013,MSC Armonia,Msc,1.0,0.0,1.0
+2340,poor communication skills,bad,2009,MSC Poesia,Msc,1.0,0.0,1.0
+2341,poor cruise,bad,2011,MSC Fantasia,Msc,1.0,0.0,1.0
+2342,poor customer attitude,bad,2012,MSC Splendida,Msc,1.0,0.0,1.0
+2343,poor customer service,bad,2010,MSC Lirica,Msc,1.0,0.0,1.0
+2344,poor dining service,good,2009,MSC Poesia,Msc,1.0,0.0,1.0
+2345,poor experience,bad,2009,MSC Poesia,Msc,1.0,0.0,1.0
+2346,poor food,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+2347,poor food,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+2348,poor girl,bad,2013,MSC Musica,Msc,1.0,0.0,1.0
+2349,poor guide,bad,2015,MSC Divina,Msc,1.0,0.0,1.0
+2350,poor lady,good,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+2351,poor little lady,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2352,poor maintenance,bad,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+2353,poor msc customer,bad,2013,MSC Fantasia,Msc,1.0,0.0,1.0
+2354,poor msc shuttle,good,2013,MSC Splendida,Msc,1.0,0.0,1.0
+2355,poor quality,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2356,poor quality,bad,2013,MSC Orchestra,Msc,1.0,0.0,1.0
+2357,poor quality,bad,2014,MSC Magnifica,Msc,1.0,0.0,1.0
+2358,poor quality,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+2359,poor review,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2360,poor reviews,bad,2013,MSC Lirica,Msc,1.0,0.0,1.0
+2361,poor reviews,good,2012,MSC Splendida,Msc,1.0,0.0,1.0
+2362,poor reviews,good,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+2363,poor seasoning,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+2364,poor service,bad,2008,MSC Musica,Msc,1.0,0.0,1.0
+2365,poor service,bad,2009,MSC Poesia,Msc,1.0,0.0,1.0
+2366,poor service,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2367,poor service,bad,2012,MSC Sinfonia,Msc,1.0,0.0,1.0
+2368,poor service,good,2013,MSC Armonia,Msc,1.0,0.0,1.0
+2369,poor supervision,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+2370,poor thermal spa,bad,2013,MSC Musica,Msc,1.0,0.0,1.0
+2371,poor transport,bad,2015,MSC Divina,Msc,1.0,0.0,1.0
+2372,poor waiters,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2373,poor weather,bad,2013,MSC Armonia,Msc,1.0,0.0,1.0
+2374,poorly managed cruise,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2375,pop package,good,2012,MSC Fantasia,Msc,1.0,0.0,1.0
+2376,port everglades,bad,2011,MSC Poesia,Msc,0.0,1.0,1.0
+2377,port everglades,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2378,port everglades staff,bad,2009,MSC Poesia,Msc,0.0,1.0,1.0
+2379,port staff,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2380,porta short bus,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+2381,portugese islands,bad,2012,MSC Sinfonia,Msc,0.0,1.0,1.0
+2382,positive note,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+2383,positive person,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+2384,positive surprise,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2385,positive way,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2386,positives the ship,bad,2012,MSC Magnifica,Msc,0.0,1.0,1.0
+2387,post card beach,bad,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2388,post dinner drinkswe,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+2389,potential adventures,good,2009,MSC Poesia,Msc,0.0,1.0,1.0
+2390,powerful shower,bad,2011,MSC Orchestra,Msc,0.0,1.0,1.0
+2391,pre breakfast breakfast,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2392,precious vacation time,bad,2008,MSC Lirica,Msc,0.0,1.0,1.0
+2393,predinner drink,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+2394,pregrade class,bad,2010,MSC Splendida,Msc,1.0,0.0,1.0
+2395,premier inn,good,2013,MSC Opera,Msc,1.0,0.0,1.0
+2396,prepared traditional refreshments,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+2397,preshow fun,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2398,pretty dreadful trip,good,2011,MSC Opera,Msc,1.0,0.0,1.0
+2399,pretty good attitude,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2400,pretty good job,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2401,pretty good mix,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+2402,pretty good standard,bad,2010,MSC Orchestra,Msc,0.0,1.0,1.0
+2403,pretty reasonable charge,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2404,pretty smooth operation,bad,2009,MSC Musica,Msc,0.0,1.0,1.0
+2405,previous atlantic cruise,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2406,previous cruise experiences,bad,2013,MSC Splendida,Msc,0.0,1.0,1.0
+2407,previous cruiser,bad,2009,MSC Sinfonia,Msc,0.0,1.0,1.0
+2408,previous cruises,bad,2013,MSC Armonia,Msc,1.0,0.0,1.0
+2409,previous cruises,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2410,previous cruises,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+2411,previous msc cruise,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2412,previous msc passenger,good,2014,MSC Lirica,Msc,0.0,1.0,1.0
+2413,previous norwegian cruises,bad,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2414,price list,bad,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+2415,princess cruise lines,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+2416,princess cruises,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2417,princess cruises,good,2014,MSC Sinfonia,Msc,1.0,0.0,1.0
+2418,priority lift service,bad,2013,MSC Splendida,Msc,0.0,1.0,1.0
+2419,private bahamas island,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2420,private beach illetsa,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+2421,private poker room,good,2009,MSC Poesia,Msc,0.0,1.0,1.0
+2422,private pool,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+2423,private ship,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2424,private tour,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+2425,problems special mention,good,2012,MSC Opera,Msc,0.0,1.0,1.0
+2426,professional entertainment,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+2427,professional manner,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2428,proper information,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+2429,proper shower doors,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+2430,proper temperature,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2431,public bathrooms,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+2432,public holiday,good,2013,MSC Magnifica,Msc,1.0,0.0,1.0
+2433,public rooms,bad,2008,MSC Musica,Msc,0.0,1.0,1.0
+2434,public rooms,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2435,public rooms,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+2436,public toilets,bad,2012,MSC Opera,Msc,1.0,0.0,1.0
+2437,pullout couch,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2438,pure entertainment delight,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2439,purple plush seats,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2440,purple plush seats,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2441,pursers desk,bad,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+2442,pushy group,bad,2011,MSC Musica,Msc,1.0,0.0,1.0
+2443,quality balcony furniture,good,2011,MSC Musica,Msc,0.0,1.0,1.0
+2444,quality italian restaurant,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+2445,quality time,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+2446,quality time,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2447,quick btw,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2448,quick service,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2449,quick shower,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2450,quick stroll,bad,2013,MSC Orchestra,Msc,0.0,1.0,1.0
+2451,quick trip,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2452,quiet cocktail,bad,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2453,quiet haven,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+2454,quiet library,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+2455,quiet pool,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+2456,quiet pool,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2457,quiet sailing experience,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2458,quiet spot,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2459,quieter ambiance,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2460,quieter area,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+2461,quieter cruise,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2462,quieter lounges,bad,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2463,random missed notes,bad,2009,MSC Musica,Msc,1.0,0.0,1.0
+2464,real bargain,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2465,real bun fight,good,2012,MSC Opera,Msc,1.0,0.0,1.0
+2466,real complaint,good,2015,MSC Divina,Msc,1.0,0.0,1.0
+2467,real complaint lay,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2468,real emergency,bad,2008,MSC Musica,Msc,0.0,1.0,1.0
+2469,real juice,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+2470,real missed opportunity,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2471,real nice walk,good,2010,MSC Sinfonia,Msc,0.0,1.0,1.0
+2472,real plus,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2473,real problem,good,2013,MSC Poesia,Msc,1.0,0.0,1.0
+2474,real shame,bad,2009,MSC Lirica,Msc,1.0,0.0,1.0
+2475,real space,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+2476,real strength,bad,2014,MSC Armonia,Msc,0.0,1.0,1.0
+2477,real whipped cream,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2478,reasonable location,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+2479,reasonable price,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+2480,reasonable price,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2481,reasonable prices,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+2482,reasonable rate,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2483,reasonable selection,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+2484,reasonable size,good,2009,MSC Opera,Msc,0.0,1.0,1.0
+2485,reasonable size bathroom,good,2012,MSC Sinfonia,Msc,0.0,1.0,1.0
+2486,reasonable time,bad,2015,MSC Divina,Msc,0.0,1.0,1.0
+2487,reasonable time frame,good,2009,MSC Poesia,Msc,0.0,1.0,1.0
+2488,reasonably high standard,bad,2013,MSC Armonia,Msc,0.0,1.0,1.0
+2489,reasonably priced drinks,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2490,recent cruise,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2491,recent experience,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2492,recent special,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2493,reception area,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2494,reception area bar,bad,2011,MSC Orchestra,Msc,1.0,0.0,1.0
+2495,reception desk,bad,2012,MSC Fantasia,Msc,1.0,0.0,1.0
+2496,reception desk,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+2497,reception staff,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+2498,reception staff,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+2499,recommended ignore,good,2014,MSC Opera,Msc,1.0,0.0,1.0
+2500,reflexology treatment,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+2501,refreshing fruit juice,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2502,refreshing water,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2503,relatively peaceful environment,bad,2012,MSC Musica,Msc,0.0,1.0,1.0
+2504,relatively unused elevator,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2505,relaxation mood,bad,2011,MSC Sinfonia,Msc,0.0,1.0,1.0
+2506,relaxing massage,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2507,relaxing time,bad,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+2508,remarkable great choices,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+2509,repeat customerswith discounts,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2510,repeat msc guest,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+2511,repetitive format,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+2512,repetitive menu,bad,2011,MSC Magnifica,Msc,1.0,0.0,1.0
+2513,reputable cruise companies,bad,2014,MSC Sinfonia,Msc,0.0,1.0,1.0
+2514,requisite bingo,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+2515,rest tasteless,bad,2008,MSC Musica,Msc,2.0,0.0,2.0
+2516,restaurant cuisine,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2517,restaurant dining,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2518,restaurant owner,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+2519,restaurant quality,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+2520,restaurant staff bent,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2521,restaurant steak,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2522,restaurantsthe fine dining,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2523,restrictive smoking policy,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2524,retired baseball players,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+2525,rich tones,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2526,rich wonderful flavor,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+2527,rickety steps,good,2013,MSC Opera,Msc,1.0,0.0,1.0
+2528,ridiculously expensive price,good,2013,MSC Magnifica,Msc,1.0,0.0,1.0
+2529,ridiculously low price,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2530,ridiculously negative reviews,good,2013,MSC Divina,Msc,1.0,0.0,1.0
+2531,ridiculously tight shower,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2532,right direction,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2533,right direction,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2534,right mix,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+2535,rip offs,bad,2010,MSC Lirica,Msc,1.0,0.0,1.0
+2536,rip offs,bad,2011,MSC Splendida,Msc,1.0,0.0,1.0
+2537,risotto dishes,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+2538,road access,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2539,robotic uninterested staff,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+2540,rock festival,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2541,romanian waiter,bad,2008,MSC Musica,Msc,0.0,1.0,1.0
+2542,room attendant,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2543,room attendant,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2544,room attendant franciscus,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+2545,room attendants,good,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+2546,room cabin attendant,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+2547,room card,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2548,room card,good,2011,MSC Fantasia,Msc,0.0,1.0,1.0
+2549,room card,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2550,room keys,bad,2012,MSC Fantasia,Msc,1.0,0.0,1.0
+2551,room service,bad,2009,MSC Lirica,Msc,0.0,1.0,1.0
+2552,room service,bad,2010,MSC Splendida,Msc,0.0,1.0,1.0
+2553,room service,good,2012,MSC Splendida,Msc,0.0,2.0,2.0
+2554,room service breakfast,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+2555,room steward,bad,2013,MSC Opera,Msc,0.0,1.0,1.0
+2556,room steward,good,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+2557,room steward,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+2558,room steward,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2559,room steward,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2560,room steward,good,2014,MSC Divina,Msc,0.0,2.0,2.0
+2561,room steward alexander,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2562,room stewards,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+2563,room stewards,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2564,rosa dining room,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2565,rosa main dining,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2566,rosenthal china,bad,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+2567,rota basis,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+2568,rowdy italian family,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+2569,royal caribbean,bad,2012,MSC Magnifica,Msc,0.0,1.0,1.0
+2570,royal carribean liberty,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+2571,rubbish way,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+2572,rude line,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+2573,rudest people,good,2012,MSC Fantasia,Msc,1.0,0.0,1.0
+2574,runny egg salad,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2575,s american,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+2576,sad goodbyes,bad,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+2577,safari lounge,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+2578,salad bar,bad,2009,MSC Poesia,Msc,1.0,0.0,1.0
+2579,salad bar,good,2011,MSC Poesia,Msc,1.0,0.0,1.0
+2580,salad bar boring,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2581,salad bars,good,2011,MSC Poesia,Msc,1.0,0.0,1.0
+2582,sales agent,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+2583,satellite reception,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2584,satisfied passengers,good,2014,MSC Opera,Msc,1.0,0.0,1.0
+2585,saturday wer,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+2586,sawdust dry burgers,bad,2009,MSC Poesia,Msc,1.0,0.0,1.0
+2587,school trip,bad,2012,MSC Fantasia,Msc,1.0,0.0,1.0
+2588,sciatic nerve,bad,2009,MSC Fantasia,Msc,1.0,0.0,1.0
+2589,sea sickness,good,2009,MSC Lirica,Msc,1.0,0.0,1.0
+2590,sea water,good,2013,MSC Orchestra,Msc,0.0,1.0,1.0
+2591,seasonal poor weather,good,2014,MSC Magnifica,Msc,1.0,0.0,1.0
+2592,seasoned cruiser,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2593,seasoned travelers,good,2014,MSC Musica,Msc,0.0,1.0,1.0
+2594,seasons dining room,bad,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2595,seating dining room,good,2008,MSC Sinfonia,Msc,0.0,1.0,1.0
+2596,secure area,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+2597,security line,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+2598,seinfeld shows,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2599,self service breakfast,good,2012,MSC Opera,Msc,1.0,0.0,1.0
+2600,self service buffets,good,2012,MSC Opera,Msc,0.0,1.0,1.0
+2601,selfish attendees,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2602,semolina porridge,bad,2008,MSC Sinfonia,Msc,0.0,1.0,1.0
+2603,senior hotel staff,bad,2015,MSC Divina,Msc,0.0,1.0,1.0
+2604,sensitive time frame,bad,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2605,separate poker room,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2606,serve ice cream,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2607,service charge,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+2608,service providers,bad,2012,MSC Sinfonia,Msc,1.0,0.0,1.0
+2609,severe food poisoning,bad,2013,MSC Orchestra,Msc,1.0,0.0,1.0
+2610,shanghais chinese restaurant,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2611,sheer archaic dimension,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2612,sheer bedlam,bad,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2613,ship,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2614,ship,good,2013,MSC Magnifica,Msc,0.0,1.0,1.0
+2615,ship accounting office,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+2616,ship arrive,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+2617,ship beautiful food,bad,2012,MSC Lirica,Msc,0.0,1.0,1.0
+2618,ship captain,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2619,ship companies,bad,2008,MSC Musica,Msc,0.0,2.0,2.0
+2620,ship dock,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2621,ship excursions,good,2014,MSC Opera,Msc,1.0,0.0,1.0
+2622,ship management,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+2623,ship msc divina,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2624,ship msc divina,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2625,ship personnel,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+2626,ship personnel,bad,2013,MSC Orchestra,Msc,0.0,1.0,1.0
+2627,ship photographer ignorant,bad,2012,MSC Splendida,Msc,1.0,0.0,1.0
+2628,ship treat americans,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2629,shipboard credit,bad,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2630,shipboard experience,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2631,shipboard information,bad,2010,MSC Orchestra,Msc,0.0,1.0,1.0
+2632,ships attractions,bad,2010,MSC Orchestra,Msc,0.0,1.0,1.0
+2633,ships balcony cabin,good,2013,MSC Orchestra,Msc,0.0,1.0,1.0
+2634,ships entertainers,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2635,ships horn,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+2636,ships stores,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2637,ships water shuttle,good,2011,MSC Musica,Msc,0.0,1.0,1.0
+2638,shirmp cocktail appetizer,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2639,shocking weather,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2640,shopping centrecraft market,bad,2012,MSC Opera,Msc,1.0,0.0,1.0
+2641,shore excursion staff,bad,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+2642,shore excursions,good,2009,MSC Lirica,Msc,1.0,0.0,1.0
+2643,shore excursions,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+2644,short medical form,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2645,short supply,good,2011,MSC Splendida,Msc,1.0,0.0,1.0
+2646,short time,good,2013,MSC Poesia,Msc,1.0,0.0,1.0
+2647,shower cubicle,good,2013,MSC Opera,Msc,1.0,0.0,1.0
+2648,shower cubicle,good,2014,MSC Lirica,Msc,1.0,0.0,1.0
+2649,shower curtain,good,2013,MSC Opera,Msc,1.0,0.0,1.0
+2650,shower doors,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2651,shower soap dispenser,good,2013,MSC Poesia,Msc,1.0,0.0,1.0
+2652,shower space,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+2653,shower stools,good,2012,MSC Musica,Msc,1.0,0.0,1.0
+2654,shows great fun,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+2655,shuttle bus driver,good,2009,MSC Opera,Msc,1.0,0.0,1.0
+2656,sightseeing bus,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+2657,significant disappointment,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+2658,silly clowns,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+2659,silly cruise photo,good,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+2660,silly gyrations,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+2661,silver shopping,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2662,similiar price range,bad,2012,MSC Musica,Msc,0.0,1.0,1.0
+2663,simple things,bad,2013,MSC Poesia,Msc,1.0,0.0,1.0
+2664,single crew member,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2665,single night,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+2666,sitdown lunch,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2667,size ship,good,2009,MSC Lirica,Msc,1.0,0.0,1.0
+2668,skipped gsc,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2669,slack cleaning,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+2670,sleeper sofa,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2671,slicedcarved meat,good,2013,MSC Divina,Msc,1.0,0.0,1.0
+2672,slightly different dancing,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2673,slimy tomato wedge,bad,2008,MSC Musica,Msc,1.0,0.0,1.0
+2674,sloppy joes,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2675,slot machines,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+2676,slot machines,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+2677,slow service,bad,2011,MSC Orchestra,Msc,1.0,0.0,1.0
+2678,small balcony,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2679,small dish sampling,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+2680,small door,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+2681,small gigs,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+2682,small individual cheesecake,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2683,small local shop,good,2011,MSC Musica,Msc,0.0,1.0,1.0
+2684,small outdoor market,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+2685,small portions,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+2686,small seating areas,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2687,small set,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+2688,small ship,bad,2013,MSC Opera,Msc,0.0,1.0,1.0
+2689,small sunbathing areas,good,2014,MSC Armonia,Msc,0.0,1.0,1.0
+2690,small table,bad,2012,MSC Musica,Msc,0.0,1.0,1.0
+2691,small table,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2692,small table,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+2693,smoking restrictions,bad,2013,MSC Poesia,Msc,1.0,0.0,1.0
+2694,smooth check,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2695,smooth ride,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2696,smooth sailing,bad,2009,MSC Poesia,Msc,0.0,1.0,1.0
+2697,smoothest embarkations,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2698,soap dish,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2699,soft drinks,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2700,soft live music,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+2701,soft ocean breezes,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2702,soft serve,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2703,soft tones,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2704,sorry ba flights,bad,2009,MSC Sinfonia,Msc,1.0,0.0,1.0
+2705,sorry msc,bad,2009,MSC Musica,Msc,1.0,0.0,1.0
+2706,sour puss,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+2707,south africa,bad,2012,MSC Sinfonia,Msc,1.0,0.0,1.0
+2708,south african couple,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+2709,south american ports,bad,2008,MSC Musica,Msc,0.0,1.0,1.0
+2710,south beach,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2711,south indian chef,bad,2011,MSC Sinfonia,Msc,0.0,1.0,1.0
+2712,spa area,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+2713,spa services,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+2714,spacious balcony cabin,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+2715,spacious balcony stateroom,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2716,spacious comfortable cabins,good,2014,MSC Splendida,Msc,0.0,1.0,1.0
+2717,spanish colonial architecture,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+2718,sparkling divina,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2719,sparkling swarovsky staircases,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2720,sparkling water,bad,2012,MSC Divina,Msc,0.0,1.0,1.0
+2721,sparkling water,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+2722,sparkling water,good,2011,MSC Magnifica,Msc,1.0,0.0,1.0
+2723,sparkling wine,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+2724,sparkly pink rhinestones,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2725,special dance parties,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2726,special details,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2727,special easter lunch,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2728,special italian table,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+2729,special kids,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+2730,special mention,bad,2014,MSC Poesia,Msc,0.0,1.0,1.0
+2731,special mention,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+2732,special mention,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+2733,special occasion,good,2014,MSC Opera,Msc,1.0,0.0,1.0
+2734,special offer,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+2735,special offer,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+2736,special requests,bad,2011,MSC Musica,Msc,1.0,0.0,1.0
+2737,special thank,bad,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+2738,special things,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+2739,special type,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2740,specialty toiletries,good,2012,MSC Divina,Msc,1.0,0.0,1.0
+2741,spectacular galaxy room,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2742,spectacular job,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+2743,spectacular locales,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+2744,spectacular modern spaces,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2745,spectacular views,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+2746,spectacularfull production shows,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+2747,speedy boarding proceedure,good,2009,MSC Poesia,Msc,0.0,1.0,1.0
+2748,splendid cruise,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+2749,splendid experience,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2750,splendida great ship,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+2751,splendida msc,bad,2013,MSC Splendida,Msc,0.0,1.0,1.0
+2752,split lobster tails,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2753,sport coat,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+2754,sports bar,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+2755,sports bar,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2756,spotless condition,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+2757,spotlessly clean room,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2758,st lucia,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+2759,st maarten,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2760,st marks square,good,2009,MSC Poesia,Msc,0.0,1.0,1.0
+2761,staff attentive,bad,2012,MSC Divina,Msc,0.0,1.0,1.0
+2762,staff cleaning,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2763,staff crew members,bad,2010,MSC Magnifica,Msc,1.0,0.0,1.0
+2764,staff good cleaners,good,2012,MSC Opera,Msc,0.0,1.0,1.0
+2765,staff polishing,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2766,staff wish,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+2767,stage good luck,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2768,stale cigarette smoke,bad,2010,MSC Opera,Msc,1.0,0.0,1.0
+2769,stale cigarette smoke,bad,2011,MSC Musica,Msc,1.0,0.0,1.0
+2770,stale cigarette smoke,bad,2012,MSC Fantasia,Msc,1.0,0.0,1.0
+2771,stale croissants,bad,2013,MSC Opera,Msc,1.0,0.0,1.0
+2772,star dining experience,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+2773,star hotel,bad,2010,MSC Orchestra,Msc,0.0,1.0,1.0
+2774,star rating service,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2775,stars type competition,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2776,start hotel,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+2777,stateroom attendants,bad,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+2778,steam room,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2779,steep ramp,bad,2011,MSC Armonia,Msc,1.0,0.0,1.0
+2780,sticker price shock,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2781,stirrup cay,good,2013,MSC Divina,Msc,1.0,0.0,1.0
+2782,stolen stuff,good,2012,MSC Fantasia,Msc,1.0,0.0,1.0
+2783,storage space,good,2008,MSC Musica,Msc,0.0,1.0,1.0
+2784,storage space,good,2014,MSC Divina,Msc,0.0,2.0,2.0
+2785,storage space,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+2786,string trio,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+2787,strong coffee,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2788,strong european flair,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2789,stroppy coach driver,bad,2013,MSC Lirica,Msc,1.0,0.0,1.0
+2790,stunning balcony cabin,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+2791,stunning locations,good,2010,MSC Sinfonia,Msc,0.0,1.0,1.0
+2792,stunning pantheon theater,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2793,stunning ship,bad,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+2794,stunning ship,good,2011,MSC Fantasia,Msc,0.0,1.0,1.0
+2795,stunning swarovski crystal,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+2796,stunning theater,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+2797,stunning views,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+2798,stupid drink vouchers,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2799,stupid people,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+2800,style amazing sauces,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2801,stylish room,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2802,sufficient choice,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2803,sufficient time,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2804,sun area,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+2805,sun loungers,bad,2013,MSC Lirica,Msc,1.0,0.0,1.0
+2806,sun sun sun,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2807,sunny warm weather,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+2808,super promenade deck,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2809,superb modern ship,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+2810,superb view,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2811,superbly performed routines,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2812,superior balcony,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2813,superior balcony cabin,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+2814,superior balcony room,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2815,superior balcony room,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2816,superior balcony stateroom,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2817,superior beings,bad,2015,MSC Divina,Msc,0.0,1.0,1.0
+2818,surprisingly delightful town,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+2819,swarovski staircase,bad,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+2820,swarovski type staircase,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+2821,sweet little girl,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2822,swipe room keys,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2823,table games,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+2824,table stewards,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2825,tangier usef,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+2826,tap water,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2827,tastefully designed lounges,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2828,tasteless dishes,bad,2012,MSC Musica,Msc,1.0,0.0,1.0
+2829,tasteless food,bad,2008,MSC Musica,Msc,2.0,0.0,2.0
+2830,tasteless piece,bad,2010,MSC Splendida,Msc,1.0,0.0,1.0
+2831,tasty buffet lunch,good,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+2832,tasty fruit tartlets,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+2833,tasty little link,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+2834,tasty surprise,bad,2014,MSC Divina,Msc,0.0,1.0,1.0
+2835,tastymy picky eater,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2836,taxi prices,good,2011,MSC Fantasia,Msc,0.0,1.0,1.0
+2837,taxi tour,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2838,tea bags,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+2839,tea coffee,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+2840,tea stations,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+2841,teenage girls,bad,2013,MSC Poesia,Msc,1.0,0.0,1.0
+2842,telephone service,good,2013,MSC Armonia,Msc,1.0,0.0,1.0
+2843,television channel,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+2844,telltale sign,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2845,tender process,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2846,tender service,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2847,terminal building,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+2848,terrible customer service,bad,2010,MSC Lirica,Msc,1.0,0.0,1.0
+2849,terrible impression,good,2009,MSC Poesia,Msc,1.0,0.0,1.0
+2850,terrible reviews,good,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+2851,terrible soprano,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+2852,terrific entertainment,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2853,terrific entertainment,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2854,terrific experience,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2855,terrific food,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2856,terrific trip,good,2008,MSC Poesia,Msc,0.0,1.0,1.0
+2857,terrific value,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+2858,texmex restaurant,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+2859,textured city,good,2011,MSC Splendida,Msc,0.0,1.0,1.0
+2860,th msc,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2861,thanks msc,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+2862,thanks msc,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2863,thanks msc,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2864,thanksgiving trip,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2865,thats,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+2866,theatrical productions,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+2867,theme evenings,good,2012,MSC Sinfonia,Msc,0.0,1.0,1.0
+2868,theme parks,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+2869,thoroughly enjoyable cruise,good,2010,MSC Sinfonia,Msc,0.0,1.0,1.0
+2870,thoughtful design,bad,2009,MSC Musica,Msc,0.0,1.0,1.0
+2871,time buffet,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+2872,time buffet,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+2873,time cruisers,good,2012,MSC Splendida,Msc,2.0,0.0,2.0
+2874,time nit picking,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+2875,timeless classical music,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2876,timely manner,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2877,tiny crowded beach,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+2878,tip breakfast,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+2879,toilet brush,bad,2014,MSC Poesia,Msc,1.0,0.0,1.0
+2880,toilet onboard,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+2881,total chaos,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+2882,total lack,bad,2008,MSC Musica,Msc,1.0,0.0,1.0
+2883,total lack,bad,2009,MSC Lirica,Msc,1.0,0.0,1.0
+2884,total mess,bad,2014,MSC Armonia,Msc,1.0,0.0,1.0
+2885,total rip,bad,2011,MSC Splendida,Msc,1.0,0.0,1.0
+2886,total rubbish,good,2011,MSC Opera,Msc,1.0,0.0,1.0
+2887,total rubbish,good,2014,MSC Opera,Msc,1.0,0.0,1.0
+2888,total shambles,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+2889,total waste,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+2890,totally disappointing cruise,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2891,totally inadequate elevators,bad,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+2892,tour buses,good,2014,MSC Orchestra,Msc,1.0,0.0,1.0
+2893,tour guide,bad,2012,MSC Magnifica,Msc,0.0,1.0,1.0
+2894,tour guide,bad,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+2895,tour guides,good,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+2896,tourist information,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2897,tourist information center,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+2898,tourist information point,good,2011,MSC Fantasia,Msc,0.0,1.0,1.0
+2899,town exploringit,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+2900,traditional dining,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+2901,traditional english breakfast,bad,2009,MSC Lirica,Msc,0.0,1.0,1.0
+2902,traditional white houses,bad,2012,MSC Musica,Msc,0.0,1.0,1.0
+2903,traffic flow,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2904,train station,bad,2009,MSC Fantasia,Msc,1.0,0.0,1.0
+2905,transfer coach,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+2906,transfer point,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+2907,trapeze artist,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2908,trash even crewmembers,bad,2012,MSC Opera,Msc,1.0,0.0,1.0
+2909,travel agent,good,2012,MSC Magnifica,Msc,0.0,1.0,1.0
+2910,travel agents,good,2014,MSC Lirica,Msc,0.0,1.0,1.0
+2911,tremendous job,bad,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2912,true foodie,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2913,true professionals,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+2914,trullo houses,bad,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+2915,truly foreign cruise,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+2916,truly good food,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2917,truly italian style,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2918,truly lovely voice,bad,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+2919,truly magnificent ship,good,2011,MSC Fantasia,Msc,0.0,1.0,1.0
+2920,truly spectacular lighting,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+2921,turkish group,good,2009,MSC Poesia,Msc,0.0,1.0,1.0
+2922,tv channels,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+2923,tv channels,good,2013,MSC Preziosa,Msc,1.0,0.0,1.0
+2924,type dinner accommodation,bad,2011,MSC Poesia,Msc,0.0,1.0,1.0
+2925,ugly americans,good,2009,MSC Poesia,Msc,1.0,0.0,1.0
+2926,uk msc office,good,2012,MSC Musica,Msc,1.0,0.0,1.0
+2927,uk pounds,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+2928,unattached guests,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+2929,unbelievably delicious food,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2930,uncrowded early morning,good,2013,MSC Orchestra,Msc,0.0,1.0,1.0
+2931,undelivered packages,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+2932,unforgettable experiences,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2933,unhosted chapel time,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2934,unicef donation,good,2010,MSC Splendida,Msc,1.0,0.0,1.0
+2935,unimpressive food selections,bad,2011,MSC Musica,Msc,1.0,0.0,1.0
+2936,uninspired dressings,good,2009,MSC Splendida,Msc,1.0,0.0,1.0
+2937,uninspiring salad bar,bad,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+2938,unique experience,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+2939,unique international feel,good,2009,MSC Splendida,Msc,0.0,1.0,1.0
+2940,unique island,bad,2014,MSC Magnifica,Msc,0.0,1.0,1.0
+2941,unique programs,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2942,unique shade feature,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2943,unlikely event scenario,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+2944,unlucky lady,bad,2008,MSC Opera,Msc,1.0,0.0,1.0
+2945,unpleasant body odor,bad,2011,MSC Poesia,Msc,1.0,0.0,1.0
+2946,unpleasant cruise,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2947,unpleasant odor,bad,2014,MSC Magnifica,Msc,1.0,0.0,1.0
+2948,unpleasant taste,bad,2010,MSC Musica,Msc,1.0,0.0,1.0
+2949,unrealistic demands,good,2009,MSC Poesia,Msc,1.0,0.0,1.0
+2950,unusual itineraries,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+2951,unwanted relatives,bad,2008,MSC Orchestra,Msc,1.0,0.0,1.0
+2952,upper respitory problems,good,2012,MSC Poesia,Msc,1.0,0.0,1.0
+2953,upset passengers,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+2954,us cruise market,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2955,usual brochures,bad,2010,MSC Orchestra,Msc,0.0,1.0,1.0
+2956,usual buffet,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+2957,usual hustle,good,2012,MSC Musica,Msc,0.0,1.0,1.0
+2958,usual newspaper,good,2014,MSC Lirica,Msc,1.0,0.0,1.0
+2959,usual spa ammenities,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+2960,utter chaos,good,2012,MSC Poesia,Msc,1.0,0.0,1.0
+2961,utter disaster,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+2962,utter dismay,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+2963,vacation dates,bad,2014,MSC Musica,Msc,0.0,1.0,1.0
+2964,vacation experience,bad,2011,MSC Poesia,Msc,0.0,1.0,1.0
+2965,vacation time,bad,2008,MSC Sinfonia,Msc,0.0,1.0,1.0
+2966,valuable lounging space,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2967,value prebooked beverage,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+2968,varied reviews,good,2012,MSC Splendida,Msc,1.0,0.0,1.0
+2969,variety different offerings,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2970,various areas,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+2971,various bars,bad,2013,MSC Divina,Msc,1.0,0.0,1.0
+2972,various cuisines,good,2014,MSC Musica,Msc,0.0,1.0,1.0
+2973,various lounges,bad,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2974,venice port,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+2975,vessels suite bathroom,bad,2010,MSC Splendida,Msc,1.0,0.0,1.0
+2976,video roulette,bad,2009,MSC Poesia,Msc,1.0,0.0,1.0
+2977,view impeccable,good,2014,MSC Lirica,Msc,0.0,1.0,1.0
+2978,villa borghese dining,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+2979,villa rosa restaurant,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2980,villa verde,good,2013,MSC Splendida,Msc,0.0,1.0,1.0
+2981,villa verde restaurant,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+2982,village lightswe,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+2983,vip status,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+2984,virgin strawberry daiquiri,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+2985,visible entertaining passengers,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+2986,vivid costumes,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+2987,vocal cords,bad,2012,MSC Opera,Msc,1.0,0.0,1.0
+2988,vodkatonic drink,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2989,wait staff,bad,2013,MSC Magnifica,Msc,0.0,1.0,1.0
+2990,wait staff,bad,2014,MSC Musica,Msc,0.0,1.0,1.0
+2991,wait staff,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+2992,wait staff,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+2993,waiter didnt,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+2994,waiter siman,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+2995,waiters,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+2996,waiters jose cruz,good,2013,MSC Opera,Msc,0.0,1.0,1.0
+2997,walled city,good,2010,MSC Magnifica,Msc,0.0,1.0,1.0
+2998,wardrobe space,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+2999,warm color palette,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+3000,warm fresh water,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+3001,warm green colors,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+3002,warm sun,bad,2008,MSC Orchestra,Msc,0.0,1.0,1.0
+3003,waste time,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+3004,water availability,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+3005,water coffee icecream,good,2013,MSC Armonia,Msc,0.0,1.0,1.0
+3006,water pressure,good,2008,MSC Lirica,Msc,0.0,1.0,1.0
+3007,water taxi,good,2011,MSC Magnifica,Msc,0.0,1.0,1.0
+3008,way safety authorities,bad,2008,MSC Musica,Msc,1.0,0.0,1.0
+3009,weak mini bar,good,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+3010,wedding anniversary celebration,bad,2010,MSC Musica,Msc,1.0,0.0,1.0
+3011,wedding coordinator sean,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+3012,welcome drink,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+3013,welcome meal,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+3014,welcome personal touch,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+3015,welcome surprises,good,2012,MSC Divina,Msc,0.0,1.0,1.0
+3016,welldeserved standing ovation,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+3017,western carribean,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3018,western med,bad,2011,MSC Lirica,Msc,1.0,0.0,1.0
+3019,western med,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+3020,wet bathers,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+3021,wet body,good,2013,MSC Opera,Msc,1.0,0.0,1.0
+3022,whiny parents,good,2011,MSC Poesia,Msc,1.0,0.0,1.0
+3023,white bathrobes,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+3024,white beach chairs,good,2009,MSC Orchestra,Msc,1.0,0.0,1.0
+3025,white fish dish,good,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+3026,white jacket,bad,2013,MSC Musica,Msc,1.0,0.0,1.0
+3027,white lounge,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+3028,wide assortment,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3029,wide selection,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+3030,wide variety,bad,2013,MSC Poesia,Msc,0.0,1.0,1.0
+3031,wide variety,good,2014,MSC Armonia,Msc,0.0,1.0,1.0
+3032,wide variety,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+3033,wildly hyperactive children,good,2008,MSC Musica,Msc,1.0,0.0,1.0
+3034,windy pool stage,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3035,wine drinker,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+3036,wine list,bad,2011,MSC Poesia,Msc,0.0,1.0,1.0
+3037,wine package,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+3038,wine package,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+3039,wine package,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3040,wine packages,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+3041,wine pairing,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+3042,wine tasting course,good,2009,MSC Poesia,Msc,0.0,1.0,1.0
+3043,wine waiter,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+3044,wireless boradband,bad,2012,MSC Splendida,Msc,1.0,0.0,1.0
+3045,wishful thinking,good,2014,MSC Divina,Msc,1.0,0.0,1.0
+3046,wonderful acrobatics,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3047,wonderful ambiance,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3048,wonderful arts,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+3049,wonderful balcony cabin,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+3050,wonderful breads,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3051,wonderful buffet lunch,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+3052,wonderful cabin steward,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+3053,wonderful classical music,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+3054,wonderful cocktails,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+3055,wonderful couple,bad,2009,MSC Poesia,Msc,0.0,1.0,1.0
+3056,wonderful cruise,good,2009,MSC Lirica,Msc,0.0,1.0,1.0
+3057,wonderful cruise,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+3058,wonderful cruise,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+3059,wonderful cruise,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+3060,wonderful cruise,good,2012,MSC Fantasia,Msc,0.0,1.0,1.0
+3061,wonderful cruise,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+3062,wonderful cruise,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+3063,wonderful cruise,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+3064,wonderful cruisers,bad,2010,MSC Poesia,Msc,0.0,1.0,1.0
+3065,wonderful cuisine,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+3066,wonderful daily tours,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+3067,wonderful dancing,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3068,wonderful desserts,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3069,wonderful dill sauce,bad,2010,MSC Musica,Msc,0.0,1.0,1.0
+3070,wonderful drink packages,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+3071,wonderful entertainment,bad,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+3072,wonderful experiance,good,2012,MSC Armonia,Msc,0.0,1.0,1.0
+3073,wonderful experience,good,2013,MSC Lirica,Msc,0.0,1.0,1.0
+3074,wonderful experience,good,2014,MSC Divina,Msc,0.0,2.0,2.0
+3075,wonderful experience,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+3076,wonderful experiences,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+3077,wonderful fresh pastas,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3078,wonderful glass,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3079,wonderful holiday,good,2013,MSC Sinfonia,Msc,0.0,1.0,1.0
+3080,wonderful holiday,good,2014,MSC Fantasia,Msc,0.0,2.0,2.0
+3081,wonderful host,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+3082,wonderful hosts,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+3083,wonderful indoor swimming,bad,2013,MSC Divina,Msc,0.0,1.0,1.0
+3084,wonderful italian flair,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+3085,wonderful job,bad,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+3086,wonderful job,bad,2013,MSC Poesia,Msc,0.0,1.0,1.0
+3087,wonderful language barrier,good,2009,MSC Orchestra,Msc,0.0,1.0,1.0
+3088,wonderful msc cruise,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3089,wonderful nightly entertainment,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+3090,wonderful nightly entertainment,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+3091,wonderful people,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+3092,wonderful people,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3093,wonderful sauces,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3094,wonderful selection,good,2014,MSC Divina,Msc,0.0,2.0,2.0
+3095,wonderful selections,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+3096,wonderful service,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3097,wonderful ship,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3098,wonderful table mates,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+3099,wonderful theatre,bad,2011,MSC Musica,Msc,0.0,1.0,1.0
+3100,wonderful time,bad,2009,MSC Poesia,Msc,0.0,1.0,1.0
+3101,wonderful time,bad,2011,MSC Poesia,Msc,0.0,1.0,1.0
+3102,wonderful time,good,2009,MSC Fantasia,Msc,0.0,1.0,1.0
+3103,wonderful time,good,2010,MSC Poesia,Msc,0.0,2.0,2.0
+3104,wonderful time,good,2011,MSC Poesia,Msc,0.0,1.0,1.0
+3105,wonderful time,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+3106,wonderful time,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+3107,wonderful time,good,2014,MSC Orchestra,Msc,0.0,1.0,1.0
+3108,wonderful treatments,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3109,wonderful vacation,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3110,wonderful variety,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+3111,wonderful variety,good,2011,MSC Orchestra,Msc,0.0,1.0,1.0
+3112,wonderful variety,good,2013,MSC Divina,Msc,0.0,1.0,1.0
+3113,wonderful violinist,good,2011,MSC Opera,Msc,0.0,1.0,1.0
+3114,wonderful waiters,good,2014,MSC Opera,Msc,0.0,1.0,1.0
+3115,wonderful young men,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3116,wonderfull holiday,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+3117,working toilet,bad,2012,MSC Opera,Msc,1.0,0.0,1.0
+3118,worldclass entertainment,good,2015,MSC Divina,Msc,0.0,1.0,1.0
+3119,worried people,good,2013,MSC Fantasia,Msc,1.0,0.0,1.0
+3120,worry free trip,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+3121,worst aspect,good,2012,MSC Fantasia,Msc,1.0,0.0,1.0
+3122,worst buffet,good,2011,MSC Poesia,Msc,1.0,0.0,1.0
+3123,worst checking,bad,2008,MSC Musica,Msc,1.0,0.0,1.0
+3124,worst company,bad,2013,MSC Orchestra,Msc,1.0,0.0,1.0
+3125,worst cruise,bad,2010,MSC Opera,Msc,1.0,0.0,1.0
+3126,worst cruise,bad,2011,MSC Magnifica,Msc,1.0,0.0,1.0
+3127,worst cruise,bad,2011,MSC Poesia,Msc,4.0,0.0,4.0
+3128,worst cruise,bad,2012,MSC Musica,Msc,1.0,0.0,1.0
+3129,worst cruise,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+3130,worst cruise,bad,2013,MSC Poesia,Msc,1.0,0.0,1.0
+3131,worst cruise,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+3132,worst cruise,bad,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+3133,worst cruise experience,bad,2013,MSC Poesia,Msc,1.0,0.0,1.0
+3134,worst cruise experience,bad,2014,MSC Divina,Msc,1.0,0.0,1.0
+3135,worst cruise experience,bad,2014,MSC Opera,Msc,1.0,0.0,1.0
+3136,worst cruise ship,good,2010,MSC Poesia,Msc,1.0,0.0,1.0
+3137,worst display,bad,2009,MSC Poesia,Msc,1.0,0.0,1.0
+3138,worst element,bad,2011,MSC Opera,Msc,1.0,0.0,1.0
+3139,worst excursion,bad,2015,MSC Divina,Msc,1.0,0.0,1.0
+3140,worst experience,bad,2010,MSC Magnifica,Msc,1.0,0.0,1.0
+3141,worst experience,bad,2010,MSC Musica,Msc,1.0,0.0,1.0
+3142,worst experience,bad,2013,MSC Lirica,Msc,1.0,0.0,1.0
+3143,worst food,bad,2014,MSC Fantasia,Msc,1.0,0.0,1.0
+3144,worst food,good,2009,MSC Lirica,Msc,1.0,0.0,1.0
+3145,worst gym,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+3146,worst holiday experience,bad,2011,MSC Lirica,Msc,1.0,0.0,1.0
+3147,worst lunch offering,bad,2013,MSC Armonia,Msc,1.0,0.0,1.0
+3148,worst maze,bad,2008,MSC Musica,Msc,2.0,0.0,2.0
+3149,worst things,bad,2010,MSC Lirica,Msc,1.0,0.0,1.0
+3150,worst vacation,bad,2012,MSC Poesia,Msc,1.0,0.0,1.0
+3151,wow factor,bad,2010,MSC Poesia,Msc,1.0,0.0,1.0
+3152,wrong choice,bad,2008,MSC Poesia,Msc,1.0,0.0,1.0
+3153,wrong meal,bad,2012,MSC Magnifica,Msc,1.0,0.0,1.0
+3154,yacht club,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+3155,yacht club,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3156,yacht club area,good,2013,MSC Preziosa,Msc,0.0,1.0,1.0
+3157,yacht club butlers,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3158,yacht club cabin,good,2012,MSC Splendida,Msc,0.0,1.0,1.0
+3159,yacht club facilities,bad,2013,MSC Splendida,Msc,1.0,0.0,1.0
+3160,yacht club lounge,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3161,yacht club suites,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3162,yatsel vera,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3163,yearthis time,good,2010,MSC Splendida,Msc,0.0,1.0,1.0
+3164,young children,bad,2014,MSC Preziosa,Msc,1.0,0.0,1.0
+3165,young children,good,2013,MSC Fantasia,Msc,1.0,0.0,1.0
+3166,young energetic staff,good,2012,MSC Poesia,Msc,0.0,1.0,1.0
+3167,young energetic staff,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+3168,young english family,good,2014,MSC Preziosa,Msc,0.0,1.0,1.0
+3169,young entertainment staff,bad,2012,MSC Poesia,Msc,0.0,1.0,1.0
+3170,young lady,good,2009,MSC Lirica,Msc,1.0,0.0,1.0
+3171,young people,good,2014,MSC Divina,Msc,0.0,1.0,1.0
+3172,yummy sweet potato,good,2013,MSC Poesia,Msc,0.0,1.0,1.0
+3173,zanzibar buffet,good,2014,MSC Fantasia,Msc,0.0,1.0,1.0
+3174,zanzibar restaurant,good,2010,MSC Fantasia,Msc,0.0,1.0,1.0
+3175,zebra lounge,good,2010,MSC Poesia,Msc,0.0,1.0,1.0
+3176,zen pool area,good,2013,MSC Fantasia,Msc,0.0,1.0,1.0
+3177,zen room,good,2014,MSC Divina,Msc,0.0,1.0,1.0

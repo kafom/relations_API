@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<!--[if IE 8]>         
+<html class="no-js lt-ie9" lang="en">
+   <![endif]-->
+   <!--[if gt IE 8]><!--> 
+   <html class="no-js" lang="en">
+      <!--<![endif]-->
+   <head>   
+      <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+      <meta name="viewport" content="width=device-width" />
+      
+   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+   <meta http-equiv="Pragma" content="no-cache">      
+   <meta http-equiv="Expires" content="Sat, 01 Dec 2001 00:00:00 GMT">
+   
+            <title>Keyword usage</title>
+
+            <link rel="stylesheet" type="text/css" href="css/dc.css"/>
+            <link rel="stylesheet" href="css/normalize.css" />
+            <link rel="stylesheet" href="css/foundation.css" />
+
+            <link rel="stylesheet" href="css/social_foundicons.css">
+                  <link rel="stylesheet" type="text/css" href="css/site.css"/>
+            <style type="text/css">
+               body {  
+               font-family: "Helvetica Neue", Helvetica, sans-serif;
+               }
+               #body {
+               position: relative;
+               }
+               h1 {
+               font-size: 64px;
+               font-weight: 300;
+               letter-spacing: -2px;
+               margin: .3em 0 .1em 0;
+               }
+               h2 {
+               margin-top: 2em;
+               }
+               h1, h2,h6 {
+               text-rendering: optimizeLegibility;
+               }
+               h6{
+               text-transform: uppercase
+               }
+               #sottotitolo {
+               font-size: 14px;
+               }
+               
+               #comment {
+               position: relative;
+               top: 12px;
+               }
+            </style>
+            </head>  
+         <script type="text/javascript" src="js/d3/d3crossfilter.js"></script>
+         <script type="text/javascript" src="js/d3/crossfilter.js"></script>
+         <script src="js/accounting.js"></script>
+         <script type="text/javascript" src="js/d3/dc20.js"></script>
+         <script src="js/vendor/modernizr.js"></script>
+         <script src='js/jquery-1.10.2.js' type='text/javascript'></script>
+         <script src='js/jquery-ui-1.10.4.custom.js' type='text/javascript'></script>
+         <script src='js/jquery.dataTables.min.js' type='text/javascript'></script>
+         <body>
+            <div id="body">
+               <div class="container">
+                <div class="row">
+               <div class="large-12 columns small-12 columns">  
+               <div class="large-12 medium-12 small-12 columns">
+                        <h1 class="subheader" data-tooltip data-options="disable_for_touch:true" class="has-tip" title="This dashboard takes the most common keywords (words perceived to convey the broader sense of a conversation) found in negative reviews to shows examples of the actual usage of these words in negative and in positive reviews ">Negative keyword usage</h1>
+               </div>
+                               </div>
+                 </div>
+                  <div class="row">
+                     <div class="large-7 medium-6 small-12 columns">
+                     </div>
+                     <div class="large-5 medium-6 small-12 columns">
+                        <div class="dc-data-count">
+                           <span class="filter-count"></span> records selected out of <span class="total-count"></span> | <a href="javascript:dc.filterAll(); dc.renderAll();">reset all</a><br><br>
+                        </div>
+                     </div>
+                  </div>
+                     <div class="row">
+                     <div class="large-12 columns small-12 columns"> 
+                     <h5 class="subheader" data-tooltip data-options="disable_for_touch:true" class="has-tip" title="Click on one or more bars to filter">Top phrases by...</h5>
+                       </div>
+                  </div>
+                  <div class="row">
+                     <div class="large-12 columns small-12 columns">  
+                        <div class="large-2 columns medium-2 small-12 columns">
+                           <ul class="large-block-grid-1 small-block-grid-2">
+                              <li >
+                                 <div id="ratingBar" class="dc-chart">
+                                    <h5 class="subheader" data-tooltip data-options="disable_for_touch:true" class="has-tip" title="Click to filter phrases by rating. Bad = one or two stars, Good= five or six stars">...rating</h5>
+                                    <a class="reset" href="javascript:ratingBar.filterAll();dc.redrawAll();"
+                                       style="display: none;">reset</a>
+                                    <div class="clearfix"></div>
+                                 </div>
+                              </li>    
+                           </ul>
+                        </div>
+
+                        <div class="large-3 columns medium-3 small-12 columns">
+                              <ul class="large-block-grid-1 small-block-grid-1">
+                              <li >
+                                 <div id="sbjSentTypeBar" class="dc-chart">
+                                    <h5 class="subheader" data-tooltip data-options="disable_for_touch:true" class="has-tip" title="Click to filter phrases by subject sentiment (sentiment connected to phrase subject)">...subject sentiment</h5>
+                                    <a class="reset" href="javascript:sbjSentTypeBar.filterAll();dc.redrawAll();"
+                                       style="display: none;">reset</a>
+                                    <div class="clearfix"></div>
+                                 </div>
+                              </li >
+                           </ul>
+                     </div>
+                     <div class="large-3 columns medium-3 small-12 columns">
+                              <ul class="large-block-grid-1 small-block-grid-1">
+                              <li >
+                                 <div id="objSentTypeBar" class="dc-chart">
+                                    <h5 class="subheader" data-tooltip data-options="disable_for_touch:true" class="has-tip" title="Click to filter phrases by object sentiment (sentiment connected to phrase object)">...object sentiment</h5>
+                                    <a class="reset" href="javascript:objSentTypeBar.filterAll();dc.redrawAll();"
+                                       style="display: none;">reset</a>
+                                    <div class="clearfix"></div>
+                                 </div>
+                              </li >
+                           </ul>
+                     </div>
+                        <div class="large-4 columns medium-4 small-12 columns">
+                           <ul class="large-block-grid-1 small-block-grid-2">
+                              <li>
+                                 <div id="aggKeywordBar" class="dc-chart">
+                                    <h5 class="subheader" data-tooltip data-options="disable_for_touch:true" class="has-tip" title="Click to filter phrases by keywords (keywords are words perceived to convey the broader sense of the conversation)">...keyword</h5>
+                                    <a class="reset" href="javascript:aggKeywordBar.filterAll();dc.redrawAll();"
+                                       style="display: none;">reset</a>
+                                    <div class="clearfix"></div>
+                                 </div>
+                              </li>
+                          </ul>
+                        </div>
+                        </div>
+                     </div>
+
+
+                  <div class="row">
+                     <div class="large-12 columns small-12 columns">  
+                        <div class="large-2 columns medium-2 small-12 columns">
+                              <ul class="large-block-grid-1 small-block-grid-1">
+                              <li >
+                                 <div id="actVerbTextBar" class="dc-chart">
+                                    <h5 class="subheader" data-tooltip data-options="disable_for_touch:true" class="has-tip" title="Click on the bars or on the terms to filter phrases by verb">...verb</h5>
+                                    <a class="reset" href="javascript:actVerbTextBar.filterAll();dc.redrawAll();"
+                                       style="display: none;">reset</a>
+                                    <div class="clearfix"></div>
+                                 </div>
+
+                              </li >
+                           </ul>
+                     </div>
+                        <div class="large-10 columns medium-10 small-12 columns">
+                           <ul class="large-block-grid-1 small-block-grid-2">
+                              <li >
+                                    <h5 class="subheader" data-tooltip data-options="disable_for_touch:true" class="has-tip" title="Most frequent keywords associated with negative sentiment">Usage examples</h5>
+                                    <table id="dc-data-table" class="list table table-striped table-bordered">
+                                    <thead>
+                                      <tr class="header">
+                                          </tr>
+
+                                    </thead>
+                                       </table>                                  
+                              </li>    
+                           </ul>
+                        </div>
+                  </div>
+               </div>   
+            </div>
+         </div>
+            <script type="text/javascript"></script>
+            <script src="js/script_check_ie_no_ita.js"></script>
+            <script src="js/script_relations.js"></script>
+            <script src="js/foundation.min.js"></script>
+            <script src="js/foundation/foundation.dropdown.js"></script>
+            <script>
+               $(document).foundation();
+            </script>
+         </body>
+      </html>

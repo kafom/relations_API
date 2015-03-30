@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[ ]:
+# In[8]:
 
 
 import json
@@ -429,13 +429,14 @@ def find_keywords_in_text(df, top_bad):
                      "board": 1,"bar service": 1,"buffet": 1,"cruise lines": 0,                     
                      "buffet":1,"cruise lines":0,"cruise director":1,"table":1,
                      "bar staff":1,"poor food":1,"times":1,"waiter":1,"public areas":1,
-                     "credit card":0,"food quality":1,"biggest disappointment":0}
+                     "credit card":0,"food quality":1,"biggest disappointment":0, "entertainment":1,"boat":1}
     aggr_keywords={"food": "food","poor food":"food","buffet":"food","food quality":"food",
                    "people": "people","passengers":"people",
                    "time": "time","times": "time",
+                   "entertainment":"entertainment",
                    "dining room": "dining","table":"dining","waiter":"dining", "room service": "dining",
                    "bar service": "bar","bar staff":"bar",        
-                    "ship": "ship","cruise ship": "ship","board": "ship","public areas":"ship",             
+                    "ship": "ship","cruise ship": "ship","board": "ship","public areas":"ship", "boat":"ship",            
                     "poor quality": "service","customer service": "service","poor service": "service","cruise director":"service"}  
     count=0
     text_columns=["objText","sbjText","actVerbText"]
@@ -448,7 +449,7 @@ def find_keywords_in_text(df, top_bad):
                 df.loc[df[column].str.contains(word), "aggKeyword"] = aggr_keywords[word]
     df=df[pd.notnull(df["foundKeyword"])]
     df["count"]=1
-    save_csv(df,"data/relations_cleaned")
+    save_csv(df,"relations_cleaned")
     mask=df.actVerbNeg!=1
     df=delete_useless_rows(mask,df)
     df["message"]=df["sbjText"]+" "+df["actText"]+" "+df["objText"]
@@ -471,11 +472,11 @@ cruiseLines=["Msc"]
 
 def main():
 
-    commentDb=open_json_review_files(cruiseLines)
-    commentDb=cleanRatings(commentDb,cruiseLines)
-    returned_keywords,returned_relations=checkDailyQuotaAndRunAlchemy(commentDb,cruiseLines) 
-    make_keywords_csv_alchemy(returned_keywords,commentDb)
-    make_relations_csv_alchemy(returned_relations,commentDb)
+    #commentDb=open_json_review_files(cruiseLines)
+    #commentDb=cleanRatings(commentDb,cruiseLines)
+    #returned_keywords,returned_relations=checkDailyQuotaAndRunAlchemy(commentDb,cruiseLines) 
+    #make_keywords_csv_alchemy(returned_keywords,commentDb)
+    #make_relations_csv_alchemy(returned_relations,commentDb)
     top_keywords=30
     df=prepare_relations()
     top_bad=make_top_dataframes(top_keywords,cruiseLines[0])

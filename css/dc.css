@@ -68,7 +68,7 @@ div.dc-chart {
 
 .dc-chart .grid-line {
     fill: none;
-    stroke: #ccc;
+    stroke: none;
     opacity: .5;
     shape-rendering: crispEdges;
 }
@@ -305,4 +305,8 @@ div.dc-chart {
 .dc-chart .heatmap g.axis text {
     pointer-events: all;
     cursor: pointer;
+}
+
+.dc-row-graph .axis path, .axis line {
+stroke: none
 }
